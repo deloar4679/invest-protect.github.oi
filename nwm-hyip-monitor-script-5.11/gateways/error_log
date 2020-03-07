@@ -1,0 +1,682 @@
+[11-Aug-2018 15:43:21 America/Los_Angeles] PHP Warning:  include(hot.php): failed to open stream: No such file or directory in /home2/investlister/public_html/getways/msp_status.php on line 4
+[11-Aug-2018 15:43:21 America/Los_Angeles] PHP Warning:  include(hot.php): failed to open stream: No such file or directory in /home2/investlister/public_html/getways/msp_status.php on line 4
+[11-Aug-2018 15:43:21 America/Los_Angeles] PHP Warning:  include(): Failed opening 'hot.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home2/investlister/public_html/getways/msp_status.php on line 4
+[11-Aug-2018 15:43:21 America/Los_Angeles] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home2/investlister/public_html/getways/msp_status.php on line 5
+[11-Aug-2018 15:43:21 America/Los_Angeles] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home2/investlister/public_html/getways/msp_status.php on line 5
+[11-Aug-2018 15:43:21 America/Los_Angeles] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home2/investlister/public_html/getways/msp_status.php on line 5
+[11-Aug-2018 15:44:19 America/Los_Angeles] PHP Warning:  include(./header.php): failed to open stream: No such file or directory in /home2/investlister/public_html/getways/msp_status.php on line 3
+[11-Aug-2018 15:44:19 America/Los_Angeles] PHP Warning:  include(./header.php): failed to open stream: No such file or directory in /home2/investlister/public_html/getways/msp_status.php on line 3
+[11-Aug-2018 15:44:19 America/Los_Angeles] PHP Warning:  include(): Failed opening './header.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home2/investlister/public_html/getways/msp_status.php on line 3
+[11-Aug-2018 15:44:19 America/Los_Angeles] PHP Warning:  include(hot.php): failed to open stream: No such file or directory in /home2/investlister/public_html/getways/msp_status.php on line 4
+[11-Aug-2018 15:44:19 America/Los_Angeles] PHP Warning:  include(hot.php): failed to open stream: No such file or directory in /home2/investlister/public_html/getways/msp_status.php on line 4
+[11-Aug-2018 15:44:19 America/Los_Angeles] PHP Warning:  include(): Failed opening 'hot.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home2/investlister/public_html/getways/msp_status.php on line 4
+[11-Aug-2018 15:44:19 America/Los_Angeles] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home2/investlister/public_html/getways/msp_status.php on line 5
+[11-Aug-2018 15:44:19 America/Los_Angeles] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home2/investlister/public_html/getways/msp_status.php on line 5
+[11-Aug-2018 15:44:19 America/Los_Angeles] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home2/investlister/public_html/getways/msp_status.php on line 5
+[11-Aug-2018 15:46:20 America/Los_Angeles] PHP Warning:  include(hot.php): failed to open stream: No such file or directory in /home2/investlister/public_html/getways/msp_status.php on line 4
+[11-Aug-2018 15:46:20 America/Los_Angeles] PHP Warning:  include(hot.php): failed to open stream: No such file or directory in /home2/investlister/public_html/getways/msp_status.php on line 4
+[11-Aug-2018 15:46:20 America/Los_Angeles] PHP Warning:  include(): Failed opening 'hot.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home2/investlister/public_html/getways/msp_status.php on line 4
+[11-Aug-2018 15:46:20 America/Los_Angeles] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home2/investlister/public_html/getways/msp_status.php on line 5
+[11-Aug-2018 15:46:20 America/Los_Angeles] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home2/investlister/public_html/getways/msp_status.php on line 5
+[11-Aug-2018 15:46:20 America/Los_Angeles] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home2/investlister/public_html/getways/msp_status.php on line 5
+[11-Aug-2018 15:47:15 America/Los_Angeles] PHP Warning:  include(hot.php): failed to open stream: No such file or directory in /home2/investlister/public_html/getways/msp_status.php on line 4
+[11-Aug-2018 15:47:15 America/Los_Angeles] PHP Warning:  include(hot.php): failed to open stream: No such file or directory in /home2/investlister/public_html/getways/msp_status.php on line 4
+[11-Aug-2018 15:47:15 America/Los_Angeles] PHP Warning:  include(): Failed opening 'hot.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home2/investlister/public_html/getways/msp_status.php on line 4
+[11-Aug-2018 15:49:05 America/Los_Angeles] PHP Warning:  include(hot.php): failed to open stream: No such file or directory in /home2/investlister/public_html/getways/msp_status.php on line 4
+[11-Aug-2018 15:49:05 America/Los_Angeles] PHP Warning:  include(hot.php): failed to open stream: No such file or directory in /home2/investlister/public_html/getways/msp_status.php on line 4
+[11-Aug-2018 15:49:05 America/Los_Angeles] PHP Warning:  include(): Failed opening 'hot.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home2/investlister/public_html/getways/msp_status.php on line 4
+[11-Aug-2018 15:51:27 America/Los_Angeles] PHP Warning:  include(hot.php): failed to open stream: No such file or directory in /home2/investlister/public_html/getways/msp_status.php on line 4
+[11-Aug-2018 15:51:27 America/Los_Angeles] PHP Warning:  include(hot.php): failed to open stream: No such file or directory in /home2/investlister/public_html/getways/msp_status.php on line 4
+[11-Aug-2018 15:51:27 America/Los_Angeles] PHP Warning:  include(): Failed opening 'hot.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home2/investlister/public_html/getways/msp_status.php on line 4
+[11-Aug-2018 15:52:40 America/Los_Angeles] PHP Warning:  include(hot.php): failed to open stream: No such file or directory in /home2/investlister/public_html/getways/msp_status.php on line 4
+[11-Aug-2018 15:52:40 America/Los_Angeles] PHP Warning:  include(hot.php): failed to open stream: No such file or directory in /home2/investlister/public_html/getways/msp_status.php on line 4
+[11-Aug-2018 15:52:40 America/Los_Angeles] PHP Warning:  include(): Failed opening 'hot.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home2/investlister/public_html/getways/msp_status.php on line 4
+[11-Aug-2018 16:03:09 America/Los_Angeles] PHP Notice:  Undefined index: fee in /home2/investlister/public_html/getways/msp_status.php on line 11
+[11-Aug-2018 16:03:09 America/Los_Angeles] PHP Notice:  Undefined index: total in /home2/investlister/public_html/getways/msp_status.php on line 12
+[11-Aug-2018 16:03:09 America/Los_Angeles] PHP Notice:  Undefined index: currency in /home2/investlister/public_html/getways/msp_status.php on line 13
+[11-Aug-2018 16:03:09 America/Los_Angeles] PHP Notice:  Undefined index: payer in /home2/investlister/public_html/getways/msp_status.php on line 14
+[11-Aug-2018 16:03:09 America/Los_Angeles] PHP Notice:  Undefined index: receiver in /home2/investlister/public_html/getways/msp_status.php on line 15
+[11-Aug-2018 16:03:09 America/Los_Angeles] PHP Notice:  Undefined index: status in /home2/investlister/public_html/getways/msp_status.php on line 16
+[11-Aug-2018 16:03:09 America/Los_Angeles] PHP Notice:  Undefined index: date in /home2/investlister/public_html/getways/msp_status.php on line 17
+[11-Aug-2018 16:03:09 America/Los_Angeles] PHP Notice:  Undefined index: id_transfer in /home2/investlister/public_html/getways/msp_status.php on line 18
+[11-Aug-2018 16:03:09 America/Los_Angeles] PHP Notice:  Undefined index: merchant_name in /home2/investlister/public_html/getways/msp_status.php on line 20
+[11-Aug-2018 16:03:09 America/Los_Angeles] PHP Notice:  Undefined index: merchant_id in /home2/investlister/public_html/getways/msp_status.php on line 21
+[11-Aug-2018 16:03:09 America/Los_Angeles] PHP Notice:  Undefined index: balance in /home2/investlister/public_html/getways/msp_status.php on line 22
+[11-Aug-2018 16:03:09 America/Los_Angeles] PHP Notice:  Undefined index: item_name in /home2/investlister/public_html/getways/msp_status.php on line 24
+[11-Aug-2018 16:03:09 America/Los_Angeles] PHP Notice:  Undefined index: custom in /home2/investlister/public_html/getways/msp_status.php on line 25
+[11-Aug-2018 16:03:09 America/Los_Angeles] PHP Notice:  Undefined index: hash in /home2/investlister/public_html/getways/msp_status.php on line 27
+[11-Aug-2018 16:08:11 America/Los_Angeles] PHP Notice:  Undefined index: amount in /home2/investlister/public_html/getways/msp_status.php on line 10
+[11-Aug-2018 16:08:11 America/Los_Angeles] PHP Notice:  Undefined index: fee in /home2/investlister/public_html/getways/msp_status.php on line 11
+[11-Aug-2018 16:08:11 America/Los_Angeles] PHP Notice:  Undefined index: total in /home2/investlister/public_html/getways/msp_status.php on line 12
+[11-Aug-2018 16:08:11 America/Los_Angeles] PHP Notice:  Undefined index: currency in /home2/investlister/public_html/getways/msp_status.php on line 13
+[11-Aug-2018 16:08:11 America/Los_Angeles] PHP Notice:  Undefined index: payer in /home2/investlister/public_html/getways/msp_status.php on line 14
+[11-Aug-2018 16:08:11 America/Los_Angeles] PHP Notice:  Undefined index: receiver in /home2/investlister/public_html/getways/msp_status.php on line 15
+[11-Aug-2018 16:08:11 America/Los_Angeles] PHP Notice:  Undefined index: status in /home2/investlister/public_html/getways/msp_status.php on line 16
+[11-Aug-2018 16:08:11 America/Los_Angeles] PHP Notice:  Undefined index: date in /home2/investlister/public_html/getways/msp_status.php on line 17
+[11-Aug-2018 16:08:11 America/Los_Angeles] PHP Notice:  Undefined index: id_transfer in /home2/investlister/public_html/getways/msp_status.php on line 18
+[11-Aug-2018 16:08:11 America/Los_Angeles] PHP Notice:  Undefined index: merchant_name in /home2/investlister/public_html/getways/msp_status.php on line 20
+[11-Aug-2018 16:08:11 America/Los_Angeles] PHP Notice:  Undefined index: merchant_id in /home2/investlister/public_html/getways/msp_status.php on line 21
+[11-Aug-2018 16:08:11 America/Los_Angeles] PHP Notice:  Undefined index: balance in /home2/investlister/public_html/getways/msp_status.php on line 22
+[11-Aug-2018 16:08:11 America/Los_Angeles] PHP Notice:  Undefined index: item_name in /home2/investlister/public_html/getways/msp_status.php on line 24
+[11-Aug-2018 16:08:11 America/Los_Angeles] PHP Notice:  Undefined index: custom in /home2/investlister/public_html/getways/msp_status.php on line 25
+[11-Aug-2018 16:08:11 America/Los_Angeles] PHP Notice:  Undefined index: hash in /home2/investlister/public_html/getways/msp_status.php on line 27
+[11-Aug-2018 16:09:01 America/Los_Angeles] PHP Notice:  Undefined index: amount in /home2/investlister/public_html/getways/msp_status.php on line 10
+[11-Aug-2018 16:09:01 America/Los_Angeles] PHP Notice:  Undefined index: fee in /home2/investlister/public_html/getways/msp_status.php on line 11
+[11-Aug-2018 16:09:01 America/Los_Angeles] PHP Notice:  Undefined index: total in /home2/investlister/public_html/getways/msp_status.php on line 12
+[11-Aug-2018 16:09:01 America/Los_Angeles] PHP Notice:  Undefined index: currency in /home2/investlister/public_html/getways/msp_status.php on line 13
+[11-Aug-2018 16:09:01 America/Los_Angeles] PHP Notice:  Undefined index: payer in /home2/investlister/public_html/getways/msp_status.php on line 14
+[11-Aug-2018 16:09:01 America/Los_Angeles] PHP Notice:  Undefined index: receiver in /home2/investlister/public_html/getways/msp_status.php on line 15
+[11-Aug-2018 16:09:01 America/Los_Angeles] PHP Notice:  Undefined index: status in /home2/investlister/public_html/getways/msp_status.php on line 16
+[11-Aug-2018 16:09:01 America/Los_Angeles] PHP Notice:  Undefined index: date in /home2/investlister/public_html/getways/msp_status.php on line 17
+[11-Aug-2018 16:09:01 America/Los_Angeles] PHP Notice:  Undefined index: id_transfer in /home2/investlister/public_html/getways/msp_status.php on line 18
+[11-Aug-2018 16:09:01 America/Los_Angeles] PHP Notice:  Undefined index: merchant_name in /home2/investlister/public_html/getways/msp_status.php on line 20
+[11-Aug-2018 16:09:01 America/Los_Angeles] PHP Notice:  Undefined index: merchant_id in /home2/investlister/public_html/getways/msp_status.php on line 21
+[11-Aug-2018 16:09:01 America/Los_Angeles] PHP Notice:  Undefined index: balance in /home2/investlister/public_html/getways/msp_status.php on line 22
+[11-Aug-2018 16:09:01 America/Los_Angeles] PHP Notice:  Undefined index: item_name in /home2/investlister/public_html/getways/msp_status.php on line 24
+[11-Aug-2018 16:09:01 America/Los_Angeles] PHP Notice:  Undefined index: custom in /home2/investlister/public_html/getways/msp_status.php on line 25
+[11-Aug-2018 16:09:01 America/Los_Angeles] PHP Notice:  Undefined index: hash in /home2/investlister/public_html/getways/msp_status.php on line 27
+[11-Aug-2018 17:34:37 America/Los_Angeles] PHP Notice:  Undefined index: amount in /home2/investlister/public_html/getways/msp_status.php on line 10
+[11-Aug-2018 17:34:37 America/Los_Angeles] PHP Notice:  Undefined index: fee in /home2/investlister/public_html/getways/msp_status.php on line 11
+[11-Aug-2018 17:34:37 America/Los_Angeles] PHP Notice:  Undefined index: total in /home2/investlister/public_html/getways/msp_status.php on line 12
+[11-Aug-2018 17:34:37 America/Los_Angeles] PHP Notice:  Undefined index: currency in /home2/investlister/public_html/getways/msp_status.php on line 13
+[11-Aug-2018 17:34:37 America/Los_Angeles] PHP Notice:  Undefined index: payer in /home2/investlister/public_html/getways/msp_status.php on line 14
+[11-Aug-2018 17:34:37 America/Los_Angeles] PHP Notice:  Undefined index: receiver in /home2/investlister/public_html/getways/msp_status.php on line 15
+[11-Aug-2018 17:34:37 America/Los_Angeles] PHP Notice:  Undefined index: status in /home2/investlister/public_html/getways/msp_status.php on line 16
+[11-Aug-2018 17:34:37 America/Los_Angeles] PHP Notice:  Undefined index: date in /home2/investlister/public_html/getways/msp_status.php on line 17
+[11-Aug-2018 17:34:37 America/Los_Angeles] PHP Notice:  Undefined index: id_transfer in /home2/investlister/public_html/getways/msp_status.php on line 18
+[11-Aug-2018 17:34:37 America/Los_Angeles] PHP Notice:  Undefined index: merchant_name in /home2/investlister/public_html/getways/msp_status.php on line 20
+[11-Aug-2018 17:34:37 America/Los_Angeles] PHP Notice:  Undefined index: merchant_id in /home2/investlister/public_html/getways/msp_status.php on line 21
+[11-Aug-2018 17:34:37 America/Los_Angeles] PHP Notice:  Undefined index: balance in /home2/investlister/public_html/getways/msp_status.php on line 22
+[11-Aug-2018 17:34:37 America/Los_Angeles] PHP Notice:  Undefined index: item_name in /home2/investlister/public_html/getways/msp_status.php on line 24
+[11-Aug-2018 17:34:37 America/Los_Angeles] PHP Notice:  Undefined index: custom in /home2/investlister/public_html/getways/msp_status.php on line 25
+[11-Aug-2018 17:34:37 America/Los_Angeles] PHP Notice:  Undefined index: hash in /home2/investlister/public_html/getways/msp_status.php on line 27
+[11-Aug-2018 17:34:37 America/Los_Angeles] PHP Notice:  Use of undefined constant werwr34534645 - assumed 'werwr34534645' in /home2/investlister/public_html/getways/msp_status.php on line 28
+[11-Aug-2018 17:37:40 America/Los_Angeles] PHP Notice:  Undefined index: amount in /home2/investlister/public_html/getways/msp_status.php on line 10
+[11-Aug-2018 17:37:40 America/Los_Angeles] PHP Notice:  Undefined index: fee in /home2/investlister/public_html/getways/msp_status.php on line 11
+[11-Aug-2018 17:37:40 America/Los_Angeles] PHP Notice:  Undefined index: total in /home2/investlister/public_html/getways/msp_status.php on line 12
+[11-Aug-2018 17:37:40 America/Los_Angeles] PHP Notice:  Undefined index: currency in /home2/investlister/public_html/getways/msp_status.php on line 13
+[11-Aug-2018 17:37:40 America/Los_Angeles] PHP Notice:  Undefined index: payer in /home2/investlister/public_html/getways/msp_status.php on line 14
+[11-Aug-2018 17:37:40 America/Los_Angeles] PHP Notice:  Undefined index: receiver in /home2/investlister/public_html/getways/msp_status.php on line 15
+[11-Aug-2018 17:37:40 America/Los_Angeles] PHP Notice:  Undefined index: status in /home2/investlister/public_html/getways/msp_status.php on line 16
+[11-Aug-2018 17:37:40 America/Los_Angeles] PHP Notice:  Undefined index: date in /home2/investlister/public_html/getways/msp_status.php on line 17
+[11-Aug-2018 17:37:40 America/Los_Angeles] PHP Notice:  Undefined index: id_transfer in /home2/investlister/public_html/getways/msp_status.php on line 18
+[11-Aug-2018 17:37:40 America/Los_Angeles] PHP Notice:  Undefined index: merchant_name in /home2/investlister/public_html/getways/msp_status.php on line 20
+[11-Aug-2018 17:37:40 America/Los_Angeles] PHP Notice:  Undefined index: merchant_id in /home2/investlister/public_html/getways/msp_status.php on line 21
+[11-Aug-2018 17:37:40 America/Los_Angeles] PHP Notice:  Undefined index: balance in /home2/investlister/public_html/getways/msp_status.php on line 22
+[11-Aug-2018 17:37:40 America/Los_Angeles] PHP Notice:  Undefined index: item_name in /home2/investlister/public_html/getways/msp_status.php on line 24
+[11-Aug-2018 17:37:40 America/Los_Angeles] PHP Notice:  Undefined index: custom in /home2/investlister/public_html/getways/msp_status.php on line 25
+[11-Aug-2018 17:37:40 America/Los_Angeles] PHP Notice:  Undefined index: hash in /home2/investlister/public_html/getways/msp_status.php on line 27
+[11-Aug-2018 17:37:40 America/Los_Angeles] PHP Notice:  Use of undefined constant werwr34534645 - assumed 'werwr34534645' in /home2/investlister/public_html/getways/msp_status.php on line 28
+[11-Aug-2018 17:40:56 America/Los_Angeles] PHP Notice:  Undefined index: amount in /home2/investlister/public_html/getways/msp_status.php on line 10
+[11-Aug-2018 17:40:56 America/Los_Angeles] PHP Notice:  Undefined index: fee in /home2/investlister/public_html/getways/msp_status.php on line 11
+[11-Aug-2018 17:40:56 America/Los_Angeles] PHP Notice:  Undefined index: total in /home2/investlister/public_html/getways/msp_status.php on line 12
+[11-Aug-2018 17:40:56 America/Los_Angeles] PHP Notice:  Undefined index: currency in /home2/investlister/public_html/getways/msp_status.php on line 13
+[11-Aug-2018 17:40:56 America/Los_Angeles] PHP Notice:  Undefined index: payer in /home2/investlister/public_html/getways/msp_status.php on line 14
+[11-Aug-2018 17:40:56 America/Los_Angeles] PHP Notice:  Undefined index: receiver in /home2/investlister/public_html/getways/msp_status.php on line 15
+[11-Aug-2018 17:40:56 America/Los_Angeles] PHP Notice:  Undefined index: status in /home2/investlister/public_html/getways/msp_status.php on line 16
+[11-Aug-2018 17:40:56 America/Los_Angeles] PHP Notice:  Undefined index: date in /home2/investlister/public_html/getways/msp_status.php on line 17
+[11-Aug-2018 17:40:56 America/Los_Angeles] PHP Notice:  Undefined index: id_transfer in /home2/investlister/public_html/getways/msp_status.php on line 18
+[11-Aug-2018 17:40:56 America/Los_Angeles] PHP Notice:  Undefined index: merchant_name in /home2/investlister/public_html/getways/msp_status.php on line 20
+[11-Aug-2018 17:40:56 America/Los_Angeles] PHP Notice:  Undefined index: merchant_id in /home2/investlister/public_html/getways/msp_status.php on line 21
+[11-Aug-2018 17:40:56 America/Los_Angeles] PHP Notice:  Undefined index: balance in /home2/investlister/public_html/getways/msp_status.php on line 22
+[11-Aug-2018 17:40:56 America/Los_Angeles] PHP Notice:  Undefined index: item_name in /home2/investlister/public_html/getways/msp_status.php on line 24
+[11-Aug-2018 17:40:56 America/Los_Angeles] PHP Notice:  Undefined index: custom in /home2/investlister/public_html/getways/msp_status.php on line 25
+[11-Aug-2018 17:40:56 America/Los_Angeles] PHP Notice:  Undefined index: hash in /home2/investlister/public_html/getways/msp_status.php on line 27
+[11-Aug-2018 17:40:56 America/Los_Angeles] PHP Notice:  Use of undefined constant werwr34534645 - assumed 'werwr34534645' in /home2/investlister/public_html/getways/msp_status.php on line 28
+[11-Aug-2018 17:51:38 America/Los_Angeles] PHP Notice:  Undefined index: amount in /home2/investlister/public_html/getways/msp_status.php on line 10
+[11-Aug-2018 17:51:38 America/Los_Angeles] PHP Notice:  Undefined index: fee in /home2/investlister/public_html/getways/msp_status.php on line 11
+[11-Aug-2018 17:51:38 America/Los_Angeles] PHP Notice:  Undefined index: total in /home2/investlister/public_html/getways/msp_status.php on line 12
+[11-Aug-2018 17:51:38 America/Los_Angeles] PHP Notice:  Undefined index: currency in /home2/investlister/public_html/getways/msp_status.php on line 13
+[11-Aug-2018 17:51:38 America/Los_Angeles] PHP Notice:  Undefined index: payer in /home2/investlister/public_html/getways/msp_status.php on line 14
+[11-Aug-2018 17:51:38 America/Los_Angeles] PHP Notice:  Undefined index: receiver in /home2/investlister/public_html/getways/msp_status.php on line 15
+[11-Aug-2018 17:51:38 America/Los_Angeles] PHP Notice:  Undefined index: status in /home2/investlister/public_html/getways/msp_status.php on line 16
+[11-Aug-2018 17:51:38 America/Los_Angeles] PHP Notice:  Undefined index: date in /home2/investlister/public_html/getways/msp_status.php on line 17
+[11-Aug-2018 17:51:38 America/Los_Angeles] PHP Notice:  Undefined index: id_transfer in /home2/investlister/public_html/getways/msp_status.php on line 18
+[11-Aug-2018 17:51:38 America/Los_Angeles] PHP Notice:  Undefined index: merchant_name in /home2/investlister/public_html/getways/msp_status.php on line 20
+[11-Aug-2018 17:51:38 America/Los_Angeles] PHP Notice:  Undefined index: merchant_id in /home2/investlister/public_html/getways/msp_status.php on line 21
+[11-Aug-2018 17:51:38 America/Los_Angeles] PHP Notice:  Undefined index: balance in /home2/investlister/public_html/getways/msp_status.php on line 22
+[11-Aug-2018 17:51:38 America/Los_Angeles] PHP Notice:  Undefined index: item_name in /home2/investlister/public_html/getways/msp_status.php on line 24
+[11-Aug-2018 17:51:38 America/Los_Angeles] PHP Notice:  Undefined index: custom in /home2/investlister/public_html/getways/msp_status.php on line 25
+[11-Aug-2018 17:51:38 America/Los_Angeles] PHP Notice:  Undefined index: hash in /home2/investlister/public_html/getways/msp_status.php on line 27
+[11-Aug-2018 17:51:38 America/Los_Angeles] PHP Notice:  Use of undefined constant werwr34534645 - assumed 'werwr34534645' in /home2/investlister/public_html/getways/msp_status.php on line 28
+[11-Aug-2018 17:53:19 America/Los_Angeles] PHP Notice:  Undefined index: amount in /home2/investlister/public_html/getways/msp_status.php on line 10
+[11-Aug-2018 17:53:19 America/Los_Angeles] PHP Notice:  Undefined index: fee in /home2/investlister/public_html/getways/msp_status.php on line 11
+[11-Aug-2018 17:53:19 America/Los_Angeles] PHP Notice:  Undefined index: total in /home2/investlister/public_html/getways/msp_status.php on line 12
+[11-Aug-2018 17:53:19 America/Los_Angeles] PHP Notice:  Undefined index: currency in /home2/investlister/public_html/getways/msp_status.php on line 13
+[11-Aug-2018 17:53:19 America/Los_Angeles] PHP Notice:  Undefined index: payer in /home2/investlister/public_html/getways/msp_status.php on line 14
+[11-Aug-2018 17:53:19 America/Los_Angeles] PHP Notice:  Undefined index: receiver in /home2/investlister/public_html/getways/msp_status.php on line 15
+[11-Aug-2018 17:53:19 America/Los_Angeles] PHP Notice:  Undefined index: status in /home2/investlister/public_html/getways/msp_status.php on line 16
+[11-Aug-2018 17:53:19 America/Los_Angeles] PHP Notice:  Undefined index: date in /home2/investlister/public_html/getways/msp_status.php on line 17
+[11-Aug-2018 17:53:19 America/Los_Angeles] PHP Notice:  Undefined index: id_transfer in /home2/investlister/public_html/getways/msp_status.php on line 18
+[11-Aug-2018 17:53:19 America/Los_Angeles] PHP Notice:  Undefined index: merchant_name in /home2/investlister/public_html/getways/msp_status.php on line 20
+[11-Aug-2018 17:53:19 America/Los_Angeles] PHP Notice:  Undefined index: merchant_id in /home2/investlister/public_html/getways/msp_status.php on line 21
+[11-Aug-2018 17:53:19 America/Los_Angeles] PHP Notice:  Undefined index: balance in /home2/investlister/public_html/getways/msp_status.php on line 22
+[11-Aug-2018 17:53:19 America/Los_Angeles] PHP Notice:  Undefined index: item_name in /home2/investlister/public_html/getways/msp_status.php on line 24
+[11-Aug-2018 17:53:19 America/Los_Angeles] PHP Notice:  Undefined index: custom in /home2/investlister/public_html/getways/msp_status.php on line 25
+[11-Aug-2018 17:53:19 America/Los_Angeles] PHP Notice:  Undefined index: hash in /home2/investlister/public_html/getways/msp_status.php on line 27
+[11-Aug-2018 17:53:19 America/Los_Angeles] PHP Notice:  Use of undefined constant werwr34534645 - assumed 'werwr34534645' in /home2/investlister/public_html/getways/msp_status.php on line 28
+[11-Aug-2018 17:55:40 America/Los_Angeles] PHP Notice:  Undefined index: amount in /home2/investlister/public_html/getways/msp_status.php on line 10
+[11-Aug-2018 17:55:40 America/Los_Angeles] PHP Notice:  Undefined index: fee in /home2/investlister/public_html/getways/msp_status.php on line 11
+[11-Aug-2018 17:55:40 America/Los_Angeles] PHP Notice:  Undefined index: total in /home2/investlister/public_html/getways/msp_status.php on line 12
+[11-Aug-2018 17:55:40 America/Los_Angeles] PHP Notice:  Undefined index: currency in /home2/investlister/public_html/getways/msp_status.php on line 13
+[11-Aug-2018 17:55:40 America/Los_Angeles] PHP Notice:  Undefined index: payer in /home2/investlister/public_html/getways/msp_status.php on line 14
+[11-Aug-2018 17:55:40 America/Los_Angeles] PHP Notice:  Undefined index: receiver in /home2/investlister/public_html/getways/msp_status.php on line 15
+[11-Aug-2018 17:55:40 America/Los_Angeles] PHP Notice:  Undefined index: status in /home2/investlister/public_html/getways/msp_status.php on line 16
+[11-Aug-2018 17:55:40 America/Los_Angeles] PHP Notice:  Undefined index: date in /home2/investlister/public_html/getways/msp_status.php on line 17
+[11-Aug-2018 17:55:40 America/Los_Angeles] PHP Notice:  Undefined index: id_transfer in /home2/investlister/public_html/getways/msp_status.php on line 18
+[11-Aug-2018 17:55:40 America/Los_Angeles] PHP Notice:  Undefined index: merchant_name in /home2/investlister/public_html/getways/msp_status.php on line 20
+[11-Aug-2018 17:55:40 America/Los_Angeles] PHP Notice:  Undefined index: merchant_id in /home2/investlister/public_html/getways/msp_status.php on line 21
+[11-Aug-2018 17:55:40 America/Los_Angeles] PHP Notice:  Undefined index: balance in /home2/investlister/public_html/getways/msp_status.php on line 22
+[11-Aug-2018 17:55:40 America/Los_Angeles] PHP Notice:  Undefined index: item_name in /home2/investlister/public_html/getways/msp_status.php on line 24
+[11-Aug-2018 17:55:40 America/Los_Angeles] PHP Notice:  Undefined index: custom in /home2/investlister/public_html/getways/msp_status.php on line 25
+[11-Aug-2018 17:55:40 America/Los_Angeles] PHP Notice:  Undefined index: hash in /home2/investlister/public_html/getways/msp_status.php on line 27
+[11-Aug-2018 17:55:40 America/Los_Angeles] PHP Notice:  Use of undefined constant werwr34534645 - assumed 'werwr34534645' in /home2/investlister/public_html/getways/msp_status.php on line 28
+[12-Aug-2018 07:20:24 America/Los_Angeles] PHP Notice:  Undefined index: amount in /home2/investlister/public_html/getways/msp_status.php on line 10
+[12-Aug-2018 07:20:24 America/Los_Angeles] PHP Notice:  Undefined index: fee in /home2/investlister/public_html/getways/msp_status.php on line 11
+[12-Aug-2018 07:20:24 America/Los_Angeles] PHP Notice:  Undefined index: total in /home2/investlister/public_html/getways/msp_status.php on line 12
+[12-Aug-2018 07:20:24 America/Los_Angeles] PHP Notice:  Undefined index: currency in /home2/investlister/public_html/getways/msp_status.php on line 13
+[12-Aug-2018 07:20:24 America/Los_Angeles] PHP Notice:  Undefined index: payer in /home2/investlister/public_html/getways/msp_status.php on line 14
+[12-Aug-2018 07:20:24 America/Los_Angeles] PHP Notice:  Undefined index: receiver in /home2/investlister/public_html/getways/msp_status.php on line 15
+[12-Aug-2018 07:20:24 America/Los_Angeles] PHP Notice:  Undefined index: status in /home2/investlister/public_html/getways/msp_status.php on line 16
+[12-Aug-2018 07:20:24 America/Los_Angeles] PHP Notice:  Undefined index: date in /home2/investlister/public_html/getways/msp_status.php on line 17
+[12-Aug-2018 07:20:24 America/Los_Angeles] PHP Notice:  Undefined index: id_transfer in /home2/investlister/public_html/getways/msp_status.php on line 18
+[12-Aug-2018 07:20:24 America/Los_Angeles] PHP Notice:  Undefined index: merchant_name in /home2/investlister/public_html/getways/msp_status.php on line 20
+[12-Aug-2018 07:20:24 America/Los_Angeles] PHP Notice:  Undefined index: merchant_id in /home2/investlister/public_html/getways/msp_status.php on line 21
+[12-Aug-2018 07:20:24 America/Los_Angeles] PHP Notice:  Undefined index: balance in /home2/investlister/public_html/getways/msp_status.php on line 22
+[12-Aug-2018 07:20:24 America/Los_Angeles] PHP Notice:  Undefined index: custom in /home2/investlister/public_html/getways/msp_status.php on line 25
+[12-Aug-2018 07:20:24 America/Los_Angeles] PHP Notice:  Undefined index: hash in /home2/investlister/public_html/getways/msp_status.php on line 27
+[12-Aug-2018 07:22:49 America/Los_Angeles] PHP Notice:  Undefined index: amount in /home2/investlister/public_html/getways/msp_status.php on line 10
+[12-Aug-2018 07:22:49 America/Los_Angeles] PHP Notice:  Undefined index: fee in /home2/investlister/public_html/getways/msp_status.php on line 11
+[12-Aug-2018 07:22:49 America/Los_Angeles] PHP Notice:  Undefined index: total in /home2/investlister/public_html/getways/msp_status.php on line 12
+[12-Aug-2018 07:22:49 America/Los_Angeles] PHP Notice:  Undefined index: currency in /home2/investlister/public_html/getways/msp_status.php on line 13
+[12-Aug-2018 07:22:49 America/Los_Angeles] PHP Notice:  Undefined index: payer in /home2/investlister/public_html/getways/msp_status.php on line 14
+[12-Aug-2018 07:22:49 America/Los_Angeles] PHP Notice:  Undefined index: receiver in /home2/investlister/public_html/getways/msp_status.php on line 15
+[12-Aug-2018 07:22:49 America/Los_Angeles] PHP Notice:  Undefined index: status in /home2/investlister/public_html/getways/msp_status.php on line 16
+[12-Aug-2018 07:22:49 America/Los_Angeles] PHP Notice:  Undefined index: date in /home2/investlister/public_html/getways/msp_status.php on line 17
+[12-Aug-2018 07:22:49 America/Los_Angeles] PHP Notice:  Undefined index: id_transfer in /home2/investlister/public_html/getways/msp_status.php on line 18
+[12-Aug-2018 07:22:49 America/Los_Angeles] PHP Notice:  Undefined index: merchant_name in /home2/investlister/public_html/getways/msp_status.php on line 20
+[12-Aug-2018 07:22:49 America/Los_Angeles] PHP Notice:  Undefined index: merchant_id in /home2/investlister/public_html/getways/msp_status.php on line 21
+[12-Aug-2018 07:22:49 America/Los_Angeles] PHP Notice:  Undefined index: balance in /home2/investlister/public_html/getways/msp_status.php on line 22
+[12-Aug-2018 07:22:49 America/Los_Angeles] PHP Notice:  Undefined index: item_name in /home2/investlister/public_html/getways/msp_status.php on line 24
+[12-Aug-2018 07:22:49 America/Los_Angeles] PHP Notice:  Undefined index: hash in /home2/investlister/public_html/getways/msp_status.php on line 27
+[12-Aug-2018 07:23:56 America/Los_Angeles] PHP Notice:  Undefined index: amount in /home2/investlister/public_html/getways/msp_status.php on line 10
+[12-Aug-2018 07:23:56 America/Los_Angeles] PHP Notice:  Undefined index: fee in /home2/investlister/public_html/getways/msp_status.php on line 11
+[12-Aug-2018 07:23:56 America/Los_Angeles] PHP Notice:  Undefined index: total in /home2/investlister/public_html/getways/msp_status.php on line 12
+[12-Aug-2018 07:23:56 America/Los_Angeles] PHP Notice:  Undefined index: currency in /home2/investlister/public_html/getways/msp_status.php on line 13
+[12-Aug-2018 07:23:56 America/Los_Angeles] PHP Notice:  Undefined index: payer in /home2/investlister/public_html/getways/msp_status.php on line 14
+[12-Aug-2018 07:23:56 America/Los_Angeles] PHP Notice:  Undefined index: receiver in /home2/investlister/public_html/getways/msp_status.php on line 15
+[12-Aug-2018 07:23:56 America/Los_Angeles] PHP Notice:  Undefined index: status in /home2/investlister/public_html/getways/msp_status.php on line 16
+[12-Aug-2018 07:23:56 America/Los_Angeles] PHP Notice:  Undefined index: date in /home2/investlister/public_html/getways/msp_status.php on line 17
+[12-Aug-2018 07:23:56 America/Los_Angeles] PHP Notice:  Undefined index: id_transfer in /home2/investlister/public_html/getways/msp_status.php on line 18
+[12-Aug-2018 07:23:56 America/Los_Angeles] PHP Notice:  Undefined index: merchant_name in /home2/investlister/public_html/getways/msp_status.php on line 20
+[12-Aug-2018 07:23:56 America/Los_Angeles] PHP Notice:  Undefined index: merchant_id in /home2/investlister/public_html/getways/msp_status.php on line 21
+[12-Aug-2018 07:23:56 America/Los_Angeles] PHP Notice:  Undefined index: balance in /home2/investlister/public_html/getways/msp_status.php on line 22
+[12-Aug-2018 07:23:56 America/Los_Angeles] PHP Notice:  Undefined index: item_name in /home2/investlister/public_html/getways/msp_status.php on line 24
+[12-Aug-2018 07:23:56 America/Los_Angeles] PHP Notice:  Undefined index: hash in /home2/investlister/public_html/getways/msp_status.php on line 27
+[12-Aug-2018 07:24:21 America/Los_Angeles] PHP Notice:  Undefined index: amount in /home2/investlister/public_html/getways/msp_status.php on line 10
+[12-Aug-2018 07:24:21 America/Los_Angeles] PHP Notice:  Undefined index: fee in /home2/investlister/public_html/getways/msp_status.php on line 11
+[12-Aug-2018 07:24:21 America/Los_Angeles] PHP Notice:  Undefined index: total in /home2/investlister/public_html/getways/msp_status.php on line 12
+[12-Aug-2018 07:24:21 America/Los_Angeles] PHP Notice:  Undefined index: currency in /home2/investlister/public_html/getways/msp_status.php on line 13
+[12-Aug-2018 07:24:21 America/Los_Angeles] PHP Notice:  Undefined index: payer in /home2/investlister/public_html/getways/msp_status.php on line 14
+[12-Aug-2018 07:24:21 America/Los_Angeles] PHP Notice:  Undefined index: receiver in /home2/investlister/public_html/getways/msp_status.php on line 15
+[12-Aug-2018 07:24:21 America/Los_Angeles] PHP Notice:  Undefined index: status in /home2/investlister/public_html/getways/msp_status.php on line 16
+[12-Aug-2018 07:24:21 America/Los_Angeles] PHP Notice:  Undefined index: date in /home2/investlister/public_html/getways/msp_status.php on line 17
+[12-Aug-2018 07:24:21 America/Los_Angeles] PHP Notice:  Undefined index: id_transfer in /home2/investlister/public_html/getways/msp_status.php on line 18
+[12-Aug-2018 07:24:21 America/Los_Angeles] PHP Notice:  Undefined index: merchant_name in /home2/investlister/public_html/getways/msp_status.php on line 20
+[12-Aug-2018 07:24:21 America/Los_Angeles] PHP Notice:  Undefined index: merchant_id in /home2/investlister/public_html/getways/msp_status.php on line 21
+[12-Aug-2018 07:24:21 America/Los_Angeles] PHP Notice:  Undefined index: balance in /home2/investlister/public_html/getways/msp_status.php on line 22
+[12-Aug-2018 07:24:21 America/Los_Angeles] PHP Notice:  Undefined index: item_name in /home2/investlister/public_html/getways/msp_status.php on line 24
+[12-Aug-2018 07:24:21 America/Los_Angeles] PHP Notice:  Undefined index: hash in /home2/investlister/public_html/getways/msp_status.php on line 27
+[12-Aug-2018 07:25:16 America/Los_Angeles] PHP Notice:  Undefined index: amount in /home2/investlister/public_html/getways/msp_status.php on line 10
+[12-Aug-2018 07:25:16 America/Los_Angeles] PHP Notice:  Undefined index: fee in /home2/investlister/public_html/getways/msp_status.php on line 11
+[12-Aug-2018 07:25:16 America/Los_Angeles] PHP Notice:  Undefined index: total in /home2/investlister/public_html/getways/msp_status.php on line 12
+[12-Aug-2018 07:25:16 America/Los_Angeles] PHP Notice:  Undefined index: currency in /home2/investlister/public_html/getways/msp_status.php on line 13
+[12-Aug-2018 07:25:16 America/Los_Angeles] PHP Notice:  Undefined index: payer in /home2/investlister/public_html/getways/msp_status.php on line 14
+[12-Aug-2018 07:25:16 America/Los_Angeles] PHP Notice:  Undefined index: receiver in /home2/investlister/public_html/getways/msp_status.php on line 15
+[12-Aug-2018 07:25:16 America/Los_Angeles] PHP Notice:  Undefined index: status in /home2/investlister/public_html/getways/msp_status.php on line 16
+[12-Aug-2018 07:25:16 America/Los_Angeles] PHP Notice:  Undefined index: date in /home2/investlister/public_html/getways/msp_status.php on line 17
+[12-Aug-2018 07:25:16 America/Los_Angeles] PHP Notice:  Undefined index: id_transfer in /home2/investlister/public_html/getways/msp_status.php on line 18
+[12-Aug-2018 07:25:16 America/Los_Angeles] PHP Notice:  Undefined index: merchant_name in /home2/investlister/public_html/getways/msp_status.php on line 20
+[12-Aug-2018 07:25:16 America/Los_Angeles] PHP Notice:  Undefined index: merchant_id in /home2/investlister/public_html/getways/msp_status.php on line 21
+[12-Aug-2018 07:25:16 America/Los_Angeles] PHP Notice:  Undefined index: balance in /home2/investlister/public_html/getways/msp_status.php on line 22
+[12-Aug-2018 07:25:16 America/Los_Angeles] PHP Notice:  Undefined index: item_name in /home2/investlister/public_html/getways/msp_status.php on line 24
+[12-Aug-2018 07:25:16 America/Los_Angeles] PHP Notice:  Undefined index: hash in /home2/investlister/public_html/getways/msp_status.php on line 27
+[12-Aug-2018 07:59:33 America/Los_Angeles] PHP Notice:  Undefined index: amount in /home2/investlister/public_html/getways/msp_status.php on line 10
+[12-Aug-2018 07:59:33 America/Los_Angeles] PHP Notice:  Undefined index: fee in /home2/investlister/public_html/getways/msp_status.php on line 11
+[12-Aug-2018 07:59:33 America/Los_Angeles] PHP Notice:  Undefined index: total in /home2/investlister/public_html/getways/msp_status.php on line 12
+[12-Aug-2018 07:59:33 America/Los_Angeles] PHP Notice:  Undefined index: currency in /home2/investlister/public_html/getways/msp_status.php on line 13
+[12-Aug-2018 07:59:33 America/Los_Angeles] PHP Notice:  Undefined index: payer in /home2/investlister/public_html/getways/msp_status.php on line 14
+[12-Aug-2018 07:59:33 America/Los_Angeles] PHP Notice:  Undefined index: receiver in /home2/investlister/public_html/getways/msp_status.php on line 15
+[12-Aug-2018 07:59:33 America/Los_Angeles] PHP Notice:  Undefined index: status in /home2/investlister/public_html/getways/msp_status.php on line 16
+[12-Aug-2018 07:59:33 America/Los_Angeles] PHP Notice:  Undefined index: date in /home2/investlister/public_html/getways/msp_status.php on line 17
+[12-Aug-2018 07:59:33 America/Los_Angeles] PHP Notice:  Undefined index: id_transfer in /home2/investlister/public_html/getways/msp_status.php on line 18
+[12-Aug-2018 07:59:33 America/Los_Angeles] PHP Notice:  Undefined index: merchant_name in /home2/investlister/public_html/getways/msp_status.php on line 20
+[12-Aug-2018 07:59:33 America/Los_Angeles] PHP Notice:  Undefined index: merchant_id in /home2/investlister/public_html/getways/msp_status.php on line 21
+[12-Aug-2018 07:59:33 America/Los_Angeles] PHP Notice:  Undefined index: balance in /home2/investlister/public_html/getways/msp_status.php on line 22
+[12-Aug-2018 07:59:33 America/Los_Angeles] PHP Notice:  Undefined index: item_name in /home2/investlister/public_html/getways/msp_status.php on line 24
+[12-Aug-2018 07:59:33 America/Los_Angeles] PHP Notice:  Undefined index: custom in /home2/investlister/public_html/getways/msp_status.php on line 25
+[12-Aug-2018 07:59:33 America/Los_Angeles] PHP Notice:  Undefined index: hash in /home2/investlister/public_html/getways/msp_status.php on line 27
+[12-Aug-2018 08:02:07 America/Los_Angeles] PHP Notice:  Undefined index: status in /home2/investlister/public_html/getways/msp_status.php on line 16
+[12-Aug-2018 08:04:17 America/Los_Angeles] PHP Notice:  Undefined index: status in /home2/investlister/public_html/getways/msp_status.php on line 16
+[12-Aug-2018 08:07:21 America/Los_Angeles] PHP Notice:  Undefined index: status in /home2/investlister/public_html/getways/msp_status.php on line 16
+[12-Aug-2018 08:08:21 America/Los_Angeles] PHP Notice:  Undefined index: status in /home2/investlister/public_html/getways/msp_status.php on line 16
+[12-Aug-2018 08:09:29 America/Los_Angeles] PHP Notice:  Undefined index: status in /home2/investlister/public_html/getways/msp_status.php on line 16
+[12-Aug-2018 08:10:05 America/Los_Angeles] PHP Notice:  Undefined index: status in /home2/investlister/public_html/getways/msp_status.php on line 16
+[12-Aug-2018 08:10:22 America/Los_Angeles] PHP Notice:  Undefined index: status in /home2/investlister/public_html/getways/msp_status.php on line 16
+[12-Aug-2018 08:10:53 America/Los_Angeles] PHP Notice:  Undefined index: status in /home2/investlister/public_html/getways/msp_status.php on line 16
+[12-Aug-2018 08:11:35 America/Los_Angeles] PHP Notice:  Undefined index: status in /home2/investlister/public_html/getways/msp_status.php on line 16
+[12-Aug-2018 08:12:17 America/Los_Angeles] PHP Notice:  Undefined index: amount in /home2/investlister/public_html/getways/msp_status.php on line 10
+[12-Aug-2018 08:12:17 America/Los_Angeles] PHP Notice:  Undefined index: fee in /home2/investlister/public_html/getways/msp_status.php on line 11
+[12-Aug-2018 08:12:17 America/Los_Angeles] PHP Notice:  Undefined index: total in /home2/investlister/public_html/getways/msp_status.php on line 12
+[12-Aug-2018 08:12:17 America/Los_Angeles] PHP Notice:  Undefined index: currency in /home2/investlister/public_html/getways/msp_status.php on line 13
+[12-Aug-2018 08:12:17 America/Los_Angeles] PHP Notice:  Undefined index: payer in /home2/investlister/public_html/getways/msp_status.php on line 14
+[12-Aug-2018 08:12:17 America/Los_Angeles] PHP Notice:  Undefined index: receiver in /home2/investlister/public_html/getways/msp_status.php on line 15
+[12-Aug-2018 08:12:17 America/Los_Angeles] PHP Notice:  Undefined index: status in /home2/investlister/public_html/getways/msp_status.php on line 16
+[12-Aug-2018 08:12:17 America/Los_Angeles] PHP Notice:  Undefined index: date in /home2/investlister/public_html/getways/msp_status.php on line 17
+[12-Aug-2018 08:12:17 America/Los_Angeles] PHP Notice:  Undefined index: id_transfer in /home2/investlister/public_html/getways/msp_status.php on line 18
+[12-Aug-2018 08:12:17 America/Los_Angeles] PHP Notice:  Undefined index: merchant_name in /home2/investlister/public_html/getways/msp_status.php on line 20
+[12-Aug-2018 08:12:17 America/Los_Angeles] PHP Notice:  Undefined index: merchant_id in /home2/investlister/public_html/getways/msp_status.php on line 21
+[12-Aug-2018 08:12:17 America/Los_Angeles] PHP Notice:  Undefined index: balance in /home2/investlister/public_html/getways/msp_status.php on line 22
+[12-Aug-2018 08:12:17 America/Los_Angeles] PHP Notice:  Undefined index: item_name in /home2/investlister/public_html/getways/msp_status.php on line 24
+[12-Aug-2018 08:12:17 America/Los_Angeles] PHP Notice:  Undefined index: custom in /home2/investlister/public_html/getways/msp_status.php on line 25
+[12-Aug-2018 08:12:17 America/Los_Angeles] PHP Notice:  Undefined index: hash in /home2/investlister/public_html/getways/msp_status.php on line 27
+[12-Aug-2018 08:12:43 America/Los_Angeles] PHP Notice:  Undefined index: amount in /home2/investlister/public_html/getways/msp_status.php on line 10
+[12-Aug-2018 08:12:43 America/Los_Angeles] PHP Notice:  Undefined index: fee in /home2/investlister/public_html/getways/msp_status.php on line 11
+[12-Aug-2018 08:12:43 America/Los_Angeles] PHP Notice:  Undefined index: total in /home2/investlister/public_html/getways/msp_status.php on line 12
+[12-Aug-2018 08:12:43 America/Los_Angeles] PHP Notice:  Undefined index: currency in /home2/investlister/public_html/getways/msp_status.php on line 13
+[12-Aug-2018 08:12:43 America/Los_Angeles] PHP Notice:  Undefined index: payer in /home2/investlister/public_html/getways/msp_status.php on line 14
+[12-Aug-2018 08:12:43 America/Los_Angeles] PHP Notice:  Undefined index: receiver in /home2/investlister/public_html/getways/msp_status.php on line 15
+[12-Aug-2018 08:12:43 America/Los_Angeles] PHP Notice:  Undefined index: status in /home2/investlister/public_html/getways/msp_status.php on line 16
+[12-Aug-2018 08:12:43 America/Los_Angeles] PHP Notice:  Undefined index: date in /home2/investlister/public_html/getways/msp_status.php on line 17
+[12-Aug-2018 08:12:43 America/Los_Angeles] PHP Notice:  Undefined index: id_transfer in /home2/investlister/public_html/getways/msp_status.php on line 18
+[12-Aug-2018 08:12:43 America/Los_Angeles] PHP Notice:  Undefined index: merchant_name in /home2/investlister/public_html/getways/msp_status.php on line 20
+[12-Aug-2018 08:12:43 America/Los_Angeles] PHP Notice:  Undefined index: merchant_id in /home2/investlister/public_html/getways/msp_status.php on line 21
+[12-Aug-2018 08:12:43 America/Los_Angeles] PHP Notice:  Undefined index: balance in /home2/investlister/public_html/getways/msp_status.php on line 22
+[12-Aug-2018 08:12:43 America/Los_Angeles] PHP Notice:  Undefined index: item_name in /home2/investlister/public_html/getways/msp_status.php on line 24
+[12-Aug-2018 08:12:43 America/Los_Angeles] PHP Notice:  Undefined index: custom in /home2/investlister/public_html/getways/msp_status.php on line 25
+[12-Aug-2018 08:12:43 America/Los_Angeles] PHP Notice:  Undefined index: hash in /home2/investlister/public_html/getways/msp_status.php on line 27
+[12-Aug-2018 08:51:34 America/Los_Angeles] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/investlister/public_html/header.php:130) in /home2/investlister/public_html/getways/msp_status.php on line 36
+[12-Aug-2018 08:52:32 America/Los_Angeles] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/investlister/public_html/header.php:130) in /home2/investlister/public_html/getways/msp_status.php on line 36
+[12-Aug-2018 08:54:36 America/Los_Angeles] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/investlister/public_html/header.php:130) in /home2/investlister/public_html/getways/msp_status.php on line 36
+[12-Aug-2018 08:55:26 America/Los_Angeles] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/investlister/public_html/header.php:130) in /home2/investlister/public_html/getways/msp_status.php on line 36
+[12-Aug-2018 08:55:47 America/Los_Angeles] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/investlister/public_html/header.php:130) in /home2/investlister/public_html/getways/msp_status.php on line 36
+[12-Aug-2018 08:56:56 America/Los_Angeles] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/investlister/public_html/header.php:130) in /home2/investlister/public_html/getways/msp_status.php on line 36
+[12-Aug-2018 08:57:50 America/Los_Angeles] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/investlister/public_html/header.php:130) in /home2/investlister/public_html/getways/msp_status.php on line 36
+[20-Aug-2018 01:59:39 America/Los_Angeles] PHP Warning:  include(../db.php): failed to open stream: No such file or directory in /home2/investlister/public_html/getways/fail.php on line 3
+[20-Aug-2018 01:59:39 America/Los_Angeles] PHP Warning:  include(../db.php): failed to open stream: No such file or directory in /home2/investlister/public_html/getways/fail.php on line 3
+[20-Aug-2018 01:59:39 America/Los_Angeles] PHP Warning:  include(): Failed opening '../db.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home2/investlister/public_html/getways/fail.php on line 3
+[20-Aug-2018 01:59:39 America/Los_Angeles] PHP Notice:  Undefined index: amount in /home2/investlister/public_html/getways/fail.php on line 10
+[20-Aug-2018 01:59:39 America/Los_Angeles] PHP Notice:  Undefined index: fee in /home2/investlister/public_html/getways/fail.php on line 11
+[20-Aug-2018 01:59:39 America/Los_Angeles] PHP Notice:  Undefined index: total in /home2/investlister/public_html/getways/fail.php on line 12
+[20-Aug-2018 01:59:39 America/Los_Angeles] PHP Notice:  Undefined index: currency in /home2/investlister/public_html/getways/fail.php on line 13
+[20-Aug-2018 01:59:39 America/Los_Angeles] PHP Notice:  Undefined index: payer in /home2/investlister/public_html/getways/fail.php on line 14
+[20-Aug-2018 01:59:39 America/Los_Angeles] PHP Notice:  Undefined index: receiver in /home2/investlister/public_html/getways/fail.php on line 15
+[20-Aug-2018 01:59:39 America/Los_Angeles] PHP Notice:  Undefined index: status in /home2/investlister/public_html/getways/fail.php on line 16
+[20-Aug-2018 01:59:39 America/Los_Angeles] PHP Notice:  Undefined index: date in /home2/investlister/public_html/getways/fail.php on line 17
+[20-Aug-2018 01:59:39 America/Los_Angeles] PHP Notice:  Undefined index: id_transfer in /home2/investlister/public_html/getways/fail.php on line 18
+[20-Aug-2018 01:59:39 America/Los_Angeles] PHP Notice:  Undefined index: merchant_name in /home2/investlister/public_html/getways/fail.php on line 20
+[20-Aug-2018 01:59:39 America/Los_Angeles] PHP Notice:  Undefined index: merchant_id in /home2/investlister/public_html/getways/fail.php on line 21
+[20-Aug-2018 01:59:39 America/Los_Angeles] PHP Notice:  Undefined index: balance in /home2/investlister/public_html/getways/fail.php on line 22
+[20-Aug-2018 01:59:39 America/Los_Angeles] PHP Notice:  Undefined index: item_name in /home2/investlister/public_html/getways/fail.php on line 24
+[20-Aug-2018 01:59:39 America/Los_Angeles] PHP Notice:  Undefined index: custom in /home2/investlister/public_html/getways/fail.php on line 25
+[20-Aug-2018 01:59:39 America/Los_Angeles] PHP Notice:  Undefined index: hash in /home2/investlister/public_html/getways/fail.php on line 27
+[20-Aug-2018 02:00:22 America/Los_Angeles] PHP Warning:  include(../db.php): failed to open stream: No such file or directory in /home2/investlister/public_html/getways/fail.php on line 3
+[20-Aug-2018 02:00:22 America/Los_Angeles] PHP Warning:  include(../db.php): failed to open stream: No such file or directory in /home2/investlister/public_html/getways/fail.php on line 3
+[20-Aug-2018 02:00:22 America/Los_Angeles] PHP Warning:  include(): Failed opening '../db.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home2/investlister/public_html/getways/fail.php on line 3
+[26-Aug-2018 07:43:58 America/Los_Angeles] PHP Warning:  include(../db.php): failed to open stream: No such file or directory in /home2/investlister/public_html/getways/msp_status.php on line 3
+[26-Aug-2018 07:43:58 America/Los_Angeles] PHP Warning:  include(../db.php): failed to open stream: No such file or directory in /home2/investlister/public_html/getways/msp_status.php on line 3
+[26-Aug-2018 07:43:58 America/Los_Angeles] PHP Warning:  include(): Failed opening '../db.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home2/investlister/public_html/getways/msp_status.php on line 3
+[26-Aug-2018 07:43:58 America/Los_Angeles] PHP Notice:  Undefined variable: con in /home2/investlister/public_html/getways/msp_status.php on line 35
+[26-Aug-2018 07:43:58 America/Los_Angeles] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home2/investlister/public_html/getways/msp_status.php on line 35
+[26-Aug-2018 07:48:25 America/Los_Angeles] PHP Warning:  include(../db.php): failed to open stream: No such file or directory in /home2/investlister/public_html/getways/msp_status.php on line 3
+[26-Aug-2018 07:48:25 America/Los_Angeles] PHP Warning:  include(../db.php): failed to open stream: No such file or directory in /home2/investlister/public_html/getways/msp_status.php on line 3
+[26-Aug-2018 07:48:25 America/Los_Angeles] PHP Warning:  include(): Failed opening '../db.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home2/investlister/public_html/getways/msp_status.php on line 3
+[26-Aug-2018 07:48:25 America/Los_Angeles] PHP Notice:  Undefined variable: con in /home2/investlister/public_html/getways/msp_status.php on line 35
+[26-Aug-2018 07:48:25 America/Los_Angeles] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home2/investlister/public_html/getways/msp_status.php on line 35
+[26-Aug-2018 07:58:42 America/Los_Angeles] PHP Warning:  include(config/db.php): failed to open stream: No such file or directory in /home2/investlister/public_html/getways/msp_status.php on line 3
+[26-Aug-2018 07:58:42 America/Los_Angeles] PHP Warning:  include(config/db.php): failed to open stream: No such file or directory in /home2/investlister/public_html/getways/msp_status.php on line 3
+[26-Aug-2018 07:58:42 America/Los_Angeles] PHP Warning:  include(): Failed opening 'config/db.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home2/investlister/public_html/getways/msp_status.php on line 3
+[26-Aug-2018 07:58:42 America/Los_Angeles] PHP Notice:  Undefined variable: con in /home2/investlister/public_html/getways/msp_status.php on line 36
+[26-Aug-2018 07:58:42 America/Los_Angeles] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home2/investlister/public_html/getways/msp_status.php on line 36
+[26-Aug-2018 08:25:37 America/Los_Angeles] PHP Warning:  include(../db.php): failed to open stream: No such file or directory in /home2/investlister/public_html/getways/msp_status.php on line 3
+[26-Aug-2018 08:25:37 America/Los_Angeles] PHP Warning:  include(../db.php): failed to open stream: No such file or directory in /home2/investlister/public_html/getways/msp_status.php on line 3
+[26-Aug-2018 08:25:37 America/Los_Angeles] PHP Warning:  include(): Failed opening '../db.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home2/investlister/public_html/getways/msp_status.php on line 3
+[26-Aug-2018 08:25:37 America/Los_Angeles] PHP Notice:  Undefined variable: con in /home2/investlister/public_html/getways/msp_status.php on line 36
+[26-Aug-2018 08:25:37 America/Los_Angeles] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home2/investlister/public_html/getways/msp_status.php on line 36
+[26-Aug-2018 08:28:05 America/Los_Angeles] PHP Warning:  include(config/db.php): failed to open stream: No such file or directory in /home2/investlister/public_html/getways/msp_status.php on line 3
+[26-Aug-2018 08:28:05 America/Los_Angeles] PHP Warning:  include(config/db.php): failed to open stream: No such file or directory in /home2/investlister/public_html/getways/msp_status.php on line 3
+[26-Aug-2018 08:28:05 America/Los_Angeles] PHP Warning:  include(): Failed opening 'config/db.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home2/investlister/public_html/getways/msp_status.php on line 3
+[26-Aug-2018 08:28:05 America/Los_Angeles] PHP Notice:  Undefined variable: con in /home2/investlister/public_html/getways/msp_status.php on line 37
+[26-Aug-2018 08:28:05 America/Los_Angeles] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home2/investlister/public_html/getways/msp_status.php on line 37
+[26-Aug-2018 08:38:23 America/Los_Angeles] PHP Warning:  include(config/db.php): failed to open stream: No such file or directory in /home2/investlister/public_html/getways/msp_status.php on line 3
+[26-Aug-2018 08:38:23 America/Los_Angeles] PHP Warning:  include(config/db.php): failed to open stream: No such file or directory in /home2/investlister/public_html/getways/msp_status.php on line 3
+[26-Aug-2018 08:38:23 America/Los_Angeles] PHP Warning:  include(): Failed opening 'config/db.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home2/investlister/public_html/getways/msp_status.php on line 3
+[26-Aug-2018 08:38:23 America/Los_Angeles] PHP Notice:  Undefined variable: con in /home2/investlister/public_html/getways/msp_status.php on line 37
+[26-Aug-2018 08:38:23 America/Los_Angeles] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home2/investlister/public_html/getways/msp_status.php on line 37
+[26-Aug-2018 10:34:59 America/Los_Angeles] PHP Warning:  include(config/db.php): failed to open stream: No such file or directory in /home2/investlister/public_html/getways/msp_status.php on line 3
+[26-Aug-2018 10:34:59 America/Los_Angeles] PHP Warning:  include(config/db.php): failed to open stream: No such file or directory in /home2/investlister/public_html/getways/msp_status.php on line 3
+[26-Aug-2018 10:34:59 America/Los_Angeles] PHP Warning:  include(): Failed opening 'config/db.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home2/investlister/public_html/getways/msp_status.php on line 3
+[26-Aug-2018 10:34:59 America/Los_Angeles] PHP Notice:  Undefined variable: con in /home2/investlister/public_html/getways/msp_status.php on line 39
+[26-Aug-2018 10:34:59 America/Los_Angeles] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home2/investlister/public_html/getways/msp_status.php on line 39
+[26-Aug-2018 10:38:19 America/Los_Angeles] PHP Warning:  include(../db.php): failed to open stream: No such file or directory in /home2/investlister/public_html/getways/fail.php on line 3
+[26-Aug-2018 10:38:19 America/Los_Angeles] PHP Warning:  include(../db.php): failed to open stream: No such file or directory in /home2/investlister/public_html/getways/fail.php on line 3
+[26-Aug-2018 10:38:19 America/Los_Angeles] PHP Warning:  include(): Failed opening '../db.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home2/investlister/public_html/getways/fail.php on line 3
+[26-Aug-2018 11:54:05 America/Los_Angeles] PHP Notice:  Use of undefined constant programs - assumed 'programs' in /home2/investlister/public_html/getways/msp_status.php on line 34
+[26-Aug-2018 11:54:05 America/Los_Angeles] PHP Notice:  Use of undefined constant banners - assumed 'banners' in /home2/investlister/public_html/getways/msp_status.php on line 58
+[26-Aug-2018 11:54:05 America/Los_Angeles] PHP Notice:  Use of undefined constant on - assumed 'on' in /home2/investlister/public_html/getways/msp_status.php on line 61
+[26-Aug-2018 11:57:27 America/Los_Angeles] PHP Notice:  Use of undefined constant programs - assumed 'programs' in /home2/investlister/public_html/getways/msp_status.php on line 34
+[26-Aug-2018 11:57:27 America/Los_Angeles] PHP Notice:  Use of undefined constant banners - assumed 'banners' in /home2/investlister/public_html/getways/msp_status.php on line 58
+[26-Aug-2018 11:57:27 America/Los_Angeles] PHP Notice:  Use of undefined constant on - assumed 'on' in /home2/investlister/public_html/getways/msp_status.php on line 61
+[26-Aug-2018 11:59:24 America/Los_Angeles] PHP Notice:  Use of undefined constant programs - assumed 'programs' in /home2/investlister/public_html/getways/msp_status.php on line 34
+[26-Aug-2018 11:59:24 America/Los_Angeles] PHP Notice:  Use of undefined constant banners - assumed 'banners' in /home2/investlister/public_html/getways/msp_status.php on line 58
+[26-Aug-2018 15:49:23 America/Los_Angeles] PHP Notice:  Use of undefined constant programs - assumed 'programs' in /home2/investlister/public_html/getways/msp_status.php on line 34
+[26-Aug-2018 15:49:23 America/Los_Angeles] PHP Notice:  Use of undefined constant banners - assumed 'banners' in /home2/investlister/public_html/getways/msp_status.php on line 58
+[26-Aug-2018 15:49:23 America/Los_Angeles] PHP Notice:  Use of undefined constant paid - assumed 'paid' in /home2/investlister/public_html/getways/msp_status.php on line 61
+[26-Aug-2018 15:49:23 America/Los_Angeles] PHP Notice:  Use of undefined constant yes - assumed 'yes' in /home2/investlister/public_html/getways/msp_status.php on line 62
+[26-Aug-2018 17:01:43 America/Los_Angeles] PHP Notice:  Use of undefined constant programs - assumed 'programs' in /home2/investlister/public_html/getways/msp_status.php on line 34
+[26-Aug-2018 17:01:43 America/Los_Angeles] PHP Notice:  Use of undefined constant banners - assumed 'banners' in /home2/investlister/public_html/getways/msp_status.php on line 58
+[26-Aug-2018 17:01:43 America/Los_Angeles] PHP Notice:  Use of undefined constant paid - assumed 'paid' in /home2/investlister/public_html/getways/msp_status.php on line 61
+[27-Aug-2018 01:14:50 America/Los_Angeles] PHP Notice:  Use of undefined constant programs - assumed 'programs' in /home2/investlister/public_html/getways/msp_status.php on line 34
+[27-Aug-2018 01:14:50 America/Los_Angeles] PHP Notice:  Use of undefined constant banners - assumed 'banners' in /home2/investlister/public_html/getways/msp_status.php on line 58
+[27-Aug-2018 01:14:50 America/Los_Angeles] PHP Notice:  Use of undefined constant paid - assumed 'paid' in /home2/investlister/public_html/getways/msp_status.php on line 61
+[27-Aug-2018 01:17:14 America/Los_Angeles] PHP Notice:  Use of undefined constant programs - assumed 'programs' in /home2/investlister/public_html/getways/msp_status.php on line 34
+[27-Aug-2018 01:17:14 America/Los_Angeles] PHP Notice:  Use of undefined constant banners - assumed 'banners' in /home2/investlister/public_html/getways/msp_status.php on line 58
+[27-Aug-2018 01:17:14 America/Los_Angeles] PHP Notice:  Use of undefined constant paid - assumed 'paid' in /home2/investlister/public_html/getways/msp_status.php on line 61
+[27-Aug-2018 01:33:50 America/Los_Angeles] PHP Notice:  Use of undefined constant programs - assumed 'programs' in /home2/investlister/public_html/getways/msp_status.php on line 36
+[27-Aug-2018 01:33:50 America/Los_Angeles] PHP Notice:  Use of undefined constant banners - assumed 'banners' in /home2/investlister/public_html/getways/msp_status.php on line 53
+[27-Aug-2018 01:33:50 America/Los_Angeles] PHP Notice:  Use of undefined constant paid - assumed 'paid' in /home2/investlister/public_html/getways/msp_status.php on line 56
+[27-Aug-2018 01:42:52 America/Los_Angeles] PHP Notice:  Use of undefined constant programs - assumed 'programs' in /home2/investlister/public_html/getways/msp_status.php on line 36
+[27-Aug-2018 01:42:52 America/Los_Angeles] PHP Notice:  Use of undefined constant banners - assumed 'banners' in /home2/investlister/public_html/getways/msp_status.php on line 53
+[27-Aug-2018 01:42:52 America/Los_Angeles] PHP Notice:  Use of undefined constant paid - assumed 'paid' in /home2/investlister/public_html/getways/msp_status.php on line 56
+[27-Aug-2018 01:45:06 America/Los_Angeles] PHP Notice:  Use of undefined constant programs - assumed 'programs' in /home2/investlister/public_html/getways/msp_status.php on line 36
+[27-Aug-2018 01:45:06 America/Los_Angeles] PHP Notice:  Use of undefined constant banners - assumed 'banners' in /home2/investlister/public_html/getways/msp_status.php on line 53
+[27-Aug-2018 01:45:06 America/Los_Angeles] PHP Notice:  Use of undefined constant paid - assumed 'paid' in /home2/investlister/public_html/getways/msp_status.php on line 56
+[27-Aug-2018 02:29:48 America/Los_Angeles] PHP Notice:  Use of undefined constant programs - assumed 'programs' in /home2/investlister/public_html/getways/msp_status.php on line 36
+[27-Aug-2018 02:29:48 America/Los_Angeles] PHP Notice:  Use of undefined constant banners - assumed 'banners' in /home2/investlister/public_html/getways/msp_status.php on line 53
+[27-Aug-2018 02:29:48 America/Los_Angeles] PHP Notice:  Use of undefined constant paid - assumed 'paid' in /home2/investlister/public_html/getways/msp_status.php on line 56
+[27-Aug-2018 02:40:21 America/Los_Angeles] PHP Notice:  Use of undefined constant programs - assumed 'programs' in /home2/investlister/public_html/getways/msp_status.php on line 36
+[27-Aug-2018 02:40:21 America/Los_Angeles] PHP Notice:  Use of undefined constant banners - assumed 'banners' in /home2/investlister/public_html/getways/msp_status.php on line 53
+[27-Aug-2018 02:40:21 America/Los_Angeles] PHP Notice:  Use of undefined constant paid - assumed 'paid' in /home2/investlister/public_html/getways/msp_status.php on line 56
+[27-Aug-2018 02:55:13 America/Los_Angeles] PHP Notice:  Use of undefined constant programs - assumed 'programs' in /home2/investlister/public_html/getways/msp_status.php on line 36
+[27-Aug-2018 02:55:13 America/Los_Angeles] PHP Notice:  Use of undefined constant banners - assumed 'banners' in /home2/investlister/public_html/getways/msp_status.php on line 53
+[27-Aug-2018 02:55:13 America/Los_Angeles] PHP Notice:  Use of undefined constant paid - assumed 'paid' in /home2/investlister/public_html/getways/msp_status.php on line 56
+[27-Aug-2018 02:59:20 America/Los_Angeles] PHP Notice:  Use of undefined constant programs - assumed 'programs' in /home2/investlister/public_html/getways/msp_status.php on line 36
+[27-Aug-2018 02:59:20 America/Los_Angeles] PHP Notice:  Use of undefined constant banners - assumed 'banners' in /home2/investlister/public_html/getways/msp_status.php on line 53
+[27-Aug-2018 02:59:20 America/Los_Angeles] PHP Notice:  Use of undefined constant paid - assumed 'paid' in /home2/investlister/public_html/getways/msp_status.php on line 56
+[27-Aug-2018 03:08:35 America/Los_Angeles] PHP Notice:  Use of undefined constant programs - assumed 'programs' in /home2/investlister/public_html/getways/msp_status.php on line 36
+[27-Aug-2018 03:08:35 America/Los_Angeles] PHP Notice:  Use of undefined constant banners - assumed 'banners' in /home2/investlister/public_html/getways/msp_status.php on line 53
+[27-Aug-2018 03:08:35 America/Los_Angeles] PHP Notice:  Use of undefined constant paid - assumed 'paid' in /home2/investlister/public_html/getways/msp_status.php on line 56
+[27-Aug-2018 03:10:42 America/Los_Angeles] PHP Notice:  Use of undefined constant programs - assumed 'programs' in /home2/investlister/public_html/getways/msp_status.php on line 36
+[27-Aug-2018 03:10:42 America/Los_Angeles] PHP Notice:  Use of undefined constant banners - assumed 'banners' in /home2/investlister/public_html/getways/msp_status.php on line 53
+[27-Aug-2018 03:10:42 America/Los_Angeles] PHP Notice:  Use of undefined constant paid - assumed 'paid' in /home2/investlister/public_html/getways/msp_status.php on line 56
+[27-Aug-2018 15:20:31 America/Los_Angeles] PHP Notice:  Undefined index: amount in /home2/investlister/public_html/getways/msp_status.php on line 10
+[27-Aug-2018 15:20:31 America/Los_Angeles] PHP Notice:  Undefined index: fee in /home2/investlister/public_html/getways/msp_status.php on line 11
+[27-Aug-2018 15:20:31 America/Los_Angeles] PHP Notice:  Undefined index: total in /home2/investlister/public_html/getways/msp_status.php on line 12
+[27-Aug-2018 15:20:31 America/Los_Angeles] PHP Notice:  Undefined index: currency in /home2/investlister/public_html/getways/msp_status.php on line 13
+[27-Aug-2018 15:20:31 America/Los_Angeles] PHP Notice:  Undefined index: payer in /home2/investlister/public_html/getways/msp_status.php on line 14
+[27-Aug-2018 15:20:31 America/Los_Angeles] PHP Notice:  Undefined index: receiver in /home2/investlister/public_html/getways/msp_status.php on line 15
+[27-Aug-2018 15:20:31 America/Los_Angeles] PHP Notice:  Undefined index: status in /home2/investlister/public_html/getways/msp_status.php on line 16
+[27-Aug-2018 15:20:31 America/Los_Angeles] PHP Notice:  Undefined index: date in /home2/investlister/public_html/getways/msp_status.php on line 17
+[27-Aug-2018 15:20:31 America/Los_Angeles] PHP Notice:  Undefined index: id_transfer in /home2/investlister/public_html/getways/msp_status.php on line 18
+[27-Aug-2018 15:20:31 America/Los_Angeles] PHP Notice:  Undefined index: merchant_name in /home2/investlister/public_html/getways/msp_status.php on line 20
+[27-Aug-2018 15:20:31 America/Los_Angeles] PHP Notice:  Undefined index: merchant_id in /home2/investlister/public_html/getways/msp_status.php on line 21
+[27-Aug-2018 15:20:31 America/Los_Angeles] PHP Notice:  Undefined index: balance in /home2/investlister/public_html/getways/msp_status.php on line 22
+[27-Aug-2018 15:20:31 America/Los_Angeles] PHP Notice:  Undefined index: item_name in /home2/investlister/public_html/getways/msp_status.php on line 24
+[27-Aug-2018 15:20:31 America/Los_Angeles] PHP Notice:  Undefined index: custom in /home2/investlister/public_html/getways/msp_status.php on line 25
+[27-Aug-2018 15:20:31 America/Los_Angeles] PHP Notice:  Undefined index: custom2 in /home2/investlister/public_html/getways/msp_status.php on line 26
+[27-Aug-2018 15:20:31 America/Los_Angeles] PHP Notice:  Undefined index: hash in /home2/investlister/public_html/getways/msp_status.php on line 29
+[27-Aug-2018 15:20:31 America/Los_Angeles] PHP Notice:  Use of undefined constant programs - assumed 'programs' in /home2/investlister/public_html/getways/msp_status.php on line 36
+[27-Aug-2018 15:20:31 America/Los_Angeles] PHP Notice:  Use of undefined constant banners - assumed 'banners' in /home2/investlister/public_html/getways/msp_status.php on line 53
+[27-Aug-2018 16:04:16 America/Los_Angeles] PHP Notice:  Undefined index: CUST_NUM in /home2/investlister/public_html/getways/pm_status.php on line 9
+[27-Aug-2018 16:04:16 America/Los_Angeles] PHP Notice:  Undefined index: Batch  in /home2/investlister/public_html/getways/pm_status.php on line 10
+[27-Aug-2018 16:04:16 America/Los_Angeles] PHP Notice:  Undefined index: total in /home2/investlister/public_html/getways/pm_status.php on line 11
+[27-Aug-2018 16:04:16 America/Los_Angeles] PHP Notice:  Undefined index: currency in /home2/investlister/public_html/getways/pm_status.php on line 12
+[27-Aug-2018 16:04:16 America/Los_Angeles] PHP Notice:  Undefined index: payer in /home2/investlister/public_html/getways/pm_status.php on line 13
+[27-Aug-2018 16:04:16 America/Los_Angeles] PHP Notice:  Undefined index: receiver in /home2/investlister/public_html/getways/pm_status.php on line 14
+[27-Aug-2018 16:04:16 America/Los_Angeles] PHP Notice:  Undefined index: status in /home2/investlister/public_html/getways/pm_status.php on line 15
+[27-Aug-2018 16:04:16 America/Los_Angeles] PHP Notice:  Undefined index: date in /home2/investlister/public_html/getways/pm_status.php on line 16
+[27-Aug-2018 16:04:16 America/Los_Angeles] PHP Notice:  Undefined index: id_transfer in /home2/investlister/public_html/getways/pm_status.php on line 17
+[27-Aug-2018 16:04:16 America/Los_Angeles] PHP Notice:  Undefined index: merchant_name in /home2/investlister/public_html/getways/pm_status.php on line 19
+[27-Aug-2018 16:04:16 America/Los_Angeles] PHP Notice:  Undefined index: merchant_id in /home2/investlister/public_html/getways/pm_status.php on line 20
+[27-Aug-2018 16:04:16 America/Los_Angeles] PHP Notice:  Undefined index: balance in /home2/investlister/public_html/getways/pm_status.php on line 21
+[27-Aug-2018 16:04:16 America/Los_Angeles] PHP Notice:  Undefined index: item_name in /home2/investlister/public_html/getways/pm_status.php on line 23
+[27-Aug-2018 16:04:16 America/Los_Angeles] PHP Notice:  Undefined index: custom in /home2/investlister/public_html/getways/pm_status.php on line 24
+[27-Aug-2018 16:04:16 America/Los_Angeles] PHP Notice:  Undefined index: custom2 in /home2/investlister/public_html/getways/pm_status.php on line 25
+[27-Aug-2018 16:04:16 America/Los_Angeles] PHP Notice:  Undefined index: hash in /home2/investlister/public_html/getways/pm_status.php on line 28
+[27-Aug-2018 16:06:28 America/Los_Angeles] PHP Notice:  Undefined index: CUST_NUM in /home2/investlister/public_html/getways/pm_status.php on line 9
+[27-Aug-2018 16:06:28 America/Los_Angeles] PHP Notice:  Undefined index: Batch  in /home2/investlister/public_html/getways/pm_status.php on line 10
+[27-Aug-2018 16:06:28 America/Los_Angeles] PHP Notice:  Undefined index: total in /home2/investlister/public_html/getways/pm_status.php on line 11
+[27-Aug-2018 16:06:28 America/Los_Angeles] PHP Notice:  Undefined index: currency in /home2/investlister/public_html/getways/pm_status.php on line 12
+[27-Aug-2018 16:06:28 America/Los_Angeles] PHP Notice:  Undefined index: payer in /home2/investlister/public_html/getways/pm_status.php on line 13
+[27-Aug-2018 16:06:28 America/Los_Angeles] PHP Notice:  Undefined index: receiver in /home2/investlister/public_html/getways/pm_status.php on line 14
+[27-Aug-2018 16:06:28 America/Los_Angeles] PHP Notice:  Undefined index: status in /home2/investlister/public_html/getways/pm_status.php on line 15
+[27-Aug-2018 16:06:28 America/Los_Angeles] PHP Notice:  Undefined index: date in /home2/investlister/public_html/getways/pm_status.php on line 16
+[27-Aug-2018 16:06:28 America/Los_Angeles] PHP Notice:  Undefined index: id_transfer in /home2/investlister/public_html/getways/pm_status.php on line 17
+[27-Aug-2018 16:06:28 America/Los_Angeles] PHP Notice:  Undefined index: merchant_name in /home2/investlister/public_html/getways/pm_status.php on line 19
+[27-Aug-2018 16:06:28 America/Los_Angeles] PHP Notice:  Undefined index: merchant_id in /home2/investlister/public_html/getways/pm_status.php on line 20
+[27-Aug-2018 16:06:28 America/Los_Angeles] PHP Notice:  Undefined index: balance in /home2/investlister/public_html/getways/pm_status.php on line 21
+[27-Aug-2018 16:06:28 America/Los_Angeles] PHP Notice:  Undefined index: item_name in /home2/investlister/public_html/getways/pm_status.php on line 23
+[27-Aug-2018 16:06:28 America/Los_Angeles] PHP Notice:  Undefined index: custom in /home2/investlister/public_html/getways/pm_status.php on line 24
+[27-Aug-2018 16:06:28 America/Los_Angeles] PHP Notice:  Undefined index: custom2 in /home2/investlister/public_html/getways/pm_status.php on line 25
+[27-Aug-2018 16:06:28 America/Los_Angeles] PHP Notice:  Undefined index: hash in /home2/investlister/public_html/getways/pm_status.php on line 28
+[27-Aug-2018 16:14:19 America/Los_Angeles] PHP Notice:  Undefined index: total in /home2/investlister/public_html/getways/pm_status.php on line 11
+[27-Aug-2018 16:14:19 America/Los_Angeles] PHP Notice:  Undefined index: currency in /home2/investlister/public_html/getways/pm_status.php on line 12
+[27-Aug-2018 16:14:19 America/Los_Angeles] PHP Notice:  Undefined index: payer in /home2/investlister/public_html/getways/pm_status.php on line 13
+[27-Aug-2018 16:14:19 America/Los_Angeles] PHP Notice:  Undefined index: receiver in /home2/investlister/public_html/getways/pm_status.php on line 14
+[27-Aug-2018 16:14:19 America/Los_Angeles] PHP Notice:  Undefined index: status in /home2/investlister/public_html/getways/pm_status.php on line 15
+[27-Aug-2018 16:14:19 America/Los_Angeles] PHP Notice:  Undefined index: date in /home2/investlister/public_html/getways/pm_status.php on line 16
+[27-Aug-2018 16:14:19 America/Los_Angeles] PHP Notice:  Undefined index: id_transfer in /home2/investlister/public_html/getways/pm_status.php on line 17
+[27-Aug-2018 16:14:19 America/Los_Angeles] PHP Notice:  Undefined index: merchant_name in /home2/investlister/public_html/getways/pm_status.php on line 19
+[27-Aug-2018 16:14:19 America/Los_Angeles] PHP Notice:  Undefined index: merchant_id in /home2/investlister/public_html/getways/pm_status.php on line 20
+[27-Aug-2018 16:14:19 America/Los_Angeles] PHP Notice:  Undefined index: balance in /home2/investlister/public_html/getways/pm_status.php on line 21
+[27-Aug-2018 16:14:19 America/Los_Angeles] PHP Notice:  Undefined index: item_name in /home2/investlister/public_html/getways/pm_status.php on line 23
+[27-Aug-2018 16:14:19 America/Los_Angeles] PHP Notice:  Undefined index: custom in /home2/investlister/public_html/getways/pm_status.php on line 24
+[27-Aug-2018 16:14:19 America/Los_Angeles] PHP Notice:  Undefined index: custom2 in /home2/investlister/public_html/getways/pm_status.php on line 25
+[27-Aug-2018 16:14:19 America/Los_Angeles] PHP Notice:  Undefined index: hash in /home2/investlister/public_html/getways/pm_status.php on line 28
+[27-Aug-2018 16:20:56 America/Los_Angeles] PHP Notice:  Undefined index: CUST_NUM in /home2/investlister/public_html/getways/pm_status.php on line 10
+[27-Aug-2018 16:20:56 America/Los_Angeles] PHP Notice:  Undefined index: total in /home2/investlister/public_html/getways/pm_status.php on line 11
+[27-Aug-2018 16:20:56 America/Los_Angeles] PHP Notice:  Undefined index: currency in /home2/investlister/public_html/getways/pm_status.php on line 12
+[27-Aug-2018 16:20:56 America/Los_Angeles] PHP Notice:  Undefined index: payer in /home2/investlister/public_html/getways/pm_status.php on line 13
+[27-Aug-2018 16:20:56 America/Los_Angeles] PHP Notice:  Undefined index: receiver in /home2/investlister/public_html/getways/pm_status.php on line 14
+[27-Aug-2018 16:20:56 America/Los_Angeles] PHP Notice:  Undefined index: status in /home2/investlister/public_html/getways/pm_status.php on line 15
+[27-Aug-2018 16:20:56 America/Los_Angeles] PHP Notice:  Undefined index: date in /home2/investlister/public_html/getways/pm_status.php on line 16
+[27-Aug-2018 16:20:56 America/Los_Angeles] PHP Notice:  Undefined index: id_transfer in /home2/investlister/public_html/getways/pm_status.php on line 17
+[27-Aug-2018 16:20:56 America/Los_Angeles] PHP Notice:  Undefined index: merchant_name in /home2/investlister/public_html/getways/pm_status.php on line 19
+[27-Aug-2018 16:20:56 America/Los_Angeles] PHP Notice:  Undefined index: merchant_id in /home2/investlister/public_html/getways/pm_status.php on line 20
+[27-Aug-2018 16:20:56 America/Los_Angeles] PHP Notice:  Undefined index: balance in /home2/investlister/public_html/getways/pm_status.php on line 21
+[27-Aug-2018 16:20:56 America/Los_Angeles] PHP Notice:  Undefined index: item_name in /home2/investlister/public_html/getways/pm_status.php on line 23
+[27-Aug-2018 16:20:56 America/Los_Angeles] PHP Notice:  Undefined index: custom in /home2/investlister/public_html/getways/pm_status.php on line 24
+[27-Aug-2018 16:20:56 America/Los_Angeles] PHP Notice:  Undefined index: custom2 in /home2/investlister/public_html/getways/pm_status.php on line 25
+[27-Aug-2018 16:20:56 America/Los_Angeles] PHP Notice:  Undefined index: hash in /home2/investlister/public_html/getways/pm_status.php on line 28
+[27-Aug-2018 16:23:23 America/Los_Angeles] PHP Notice:  Undefined index: ORDER_NUM in /home2/investlister/public_html/getways/pm_status.php on line 10
+[27-Aug-2018 16:23:23 America/Los_Angeles] PHP Notice:  Undefined index: total in /home2/investlister/public_html/getways/pm_status.php on line 11
+[27-Aug-2018 16:23:23 America/Los_Angeles] PHP Notice:  Undefined index: currency in /home2/investlister/public_html/getways/pm_status.php on line 12
+[27-Aug-2018 16:23:23 America/Los_Angeles] PHP Notice:  Undefined index: payer in /home2/investlister/public_html/getways/pm_status.php on line 13
+[27-Aug-2018 16:23:23 America/Los_Angeles] PHP Notice:  Undefined index: receiver in /home2/investlister/public_html/getways/pm_status.php on line 14
+[27-Aug-2018 16:23:23 America/Los_Angeles] PHP Notice:  Undefined index: status in /home2/investlister/public_html/getways/pm_status.php on line 15
+[27-Aug-2018 16:23:23 America/Los_Angeles] PHP Notice:  Undefined index: date in /home2/investlister/public_html/getways/pm_status.php on line 16
+[27-Aug-2018 16:23:23 America/Los_Angeles] PHP Notice:  Undefined index: id_transfer in /home2/investlister/public_html/getways/pm_status.php on line 17
+[27-Aug-2018 16:23:23 America/Los_Angeles] PHP Notice:  Undefined index: merchant_name in /home2/investlister/public_html/getways/pm_status.php on line 19
+[27-Aug-2018 16:23:23 America/Los_Angeles] PHP Notice:  Undefined index: merchant_id in /home2/investlister/public_html/getways/pm_status.php on line 20
+[27-Aug-2018 16:23:23 America/Los_Angeles] PHP Notice:  Undefined index: balance in /home2/investlister/public_html/getways/pm_status.php on line 21
+[27-Aug-2018 16:23:23 America/Los_Angeles] PHP Notice:  Undefined index: item_name in /home2/investlister/public_html/getways/pm_status.php on line 23
+[27-Aug-2018 16:23:23 America/Los_Angeles] PHP Notice:  Undefined index: custom in /home2/investlister/public_html/getways/pm_status.php on line 24
+[27-Aug-2018 16:23:23 America/Los_Angeles] PHP Notice:  Undefined index: custom2 in /home2/investlister/public_html/getways/pm_status.php on line 25
+[27-Aug-2018 16:23:23 America/Los_Angeles] PHP Notice:  Undefined index: hash in /home2/investlister/public_html/getways/pm_status.php on line 28
+[27-Aug-2018 16:28:09 America/Los_Angeles] PHP Notice:  Undefined index: test in /home2/investlister/public_html/getways/pm_status.php on line 10
+[27-Aug-2018 16:28:09 America/Los_Angeles] PHP Notice:  Undefined index: total in /home2/investlister/public_html/getways/pm_status.php on line 11
+[27-Aug-2018 16:28:09 America/Los_Angeles] PHP Notice:  Undefined index: currency in /home2/investlister/public_html/getways/pm_status.php on line 12
+[27-Aug-2018 16:28:09 America/Los_Angeles] PHP Notice:  Undefined index: payer in /home2/investlister/public_html/getways/pm_status.php on line 13
+[27-Aug-2018 16:28:09 America/Los_Angeles] PHP Notice:  Undefined index: receiver in /home2/investlister/public_html/getways/pm_status.php on line 14
+[27-Aug-2018 16:28:09 America/Los_Angeles] PHP Notice:  Undefined index: status in /home2/investlister/public_html/getways/pm_status.php on line 15
+[27-Aug-2018 16:28:09 America/Los_Angeles] PHP Notice:  Undefined index: date in /home2/investlister/public_html/getways/pm_status.php on line 16
+[27-Aug-2018 16:28:09 America/Los_Angeles] PHP Notice:  Undefined index: id_transfer in /home2/investlister/public_html/getways/pm_status.php on line 17
+[27-Aug-2018 16:28:09 America/Los_Angeles] PHP Notice:  Undefined index: merchant_name in /home2/investlister/public_html/getways/pm_status.php on line 19
+[27-Aug-2018 16:28:09 America/Los_Angeles] PHP Notice:  Undefined index: merchant_id in /home2/investlister/public_html/getways/pm_status.php on line 20
+[27-Aug-2018 16:28:09 America/Los_Angeles] PHP Notice:  Undefined index: balance in /home2/investlister/public_html/getways/pm_status.php on line 21
+[27-Aug-2018 16:28:09 America/Los_Angeles] PHP Notice:  Undefined index: item_name in /home2/investlister/public_html/getways/pm_status.php on line 23
+[27-Aug-2018 16:28:09 America/Los_Angeles] PHP Notice:  Undefined index: custom in /home2/investlister/public_html/getways/pm_status.php on line 24
+[27-Aug-2018 16:28:09 America/Los_Angeles] PHP Notice:  Undefined index: custom2 in /home2/investlister/public_html/getways/pm_status.php on line 25
+[27-Aug-2018 16:28:09 America/Los_Angeles] PHP Notice:  Undefined index: hash in /home2/investlister/public_html/getways/pm_status.php on line 28
+[27-Aug-2018 16:30:41 America/Los_Angeles] PHP Notice:  Undefined index: total in /home2/investlister/public_html/getways/pm_status.php on line 11
+[27-Aug-2018 16:30:41 America/Los_Angeles] PHP Notice:  Undefined index: currency in /home2/investlister/public_html/getways/pm_status.php on line 12
+[27-Aug-2018 16:30:41 America/Los_Angeles] PHP Notice:  Undefined index: payer in /home2/investlister/public_html/getways/pm_status.php on line 13
+[27-Aug-2018 16:30:41 America/Los_Angeles] PHP Notice:  Undefined index: receiver in /home2/investlister/public_html/getways/pm_status.php on line 14
+[27-Aug-2018 16:30:41 America/Los_Angeles] PHP Notice:  Undefined index: status in /home2/investlister/public_html/getways/pm_status.php on line 15
+[27-Aug-2018 16:30:41 America/Los_Angeles] PHP Notice:  Undefined index: date in /home2/investlister/public_html/getways/pm_status.php on line 16
+[27-Aug-2018 16:30:41 America/Los_Angeles] PHP Notice:  Undefined index: id_transfer in /home2/investlister/public_html/getways/pm_status.php on line 17
+[27-Aug-2018 16:30:41 America/Los_Angeles] PHP Notice:  Undefined index: merchant_name in /home2/investlister/public_html/getways/pm_status.php on line 19
+[27-Aug-2018 16:30:41 America/Los_Angeles] PHP Notice:  Undefined index: merchant_id in /home2/investlister/public_html/getways/pm_status.php on line 20
+[27-Aug-2018 16:30:41 America/Los_Angeles] PHP Notice:  Undefined index: balance in /home2/investlister/public_html/getways/pm_status.php on line 21
+[27-Aug-2018 16:30:41 America/Los_Angeles] PHP Notice:  Undefined index: item_name in /home2/investlister/public_html/getways/pm_status.php on line 23
+[27-Aug-2018 16:30:41 America/Los_Angeles] PHP Notice:  Undefined index: custom in /home2/investlister/public_html/getways/pm_status.php on line 24
+[27-Aug-2018 16:30:41 America/Los_Angeles] PHP Notice:  Undefined index: custom2 in /home2/investlister/public_html/getways/pm_status.php on line 25
+[27-Aug-2018 16:30:41 America/Los_Angeles] PHP Notice:  Undefined index: hash in /home2/investlister/public_html/getways/pm_status.php on line 28
+[27-Aug-2018 16:32:02 America/Los_Angeles] PHP Notice:  Undefined index: total in /home2/investlister/public_html/getways/pm_status.php on line 11
+[27-Aug-2018 16:32:02 America/Los_Angeles] PHP Notice:  Undefined index: currency in /home2/investlister/public_html/getways/pm_status.php on line 12
+[27-Aug-2018 16:32:02 America/Los_Angeles] PHP Notice:  Undefined index: payer in /home2/investlister/public_html/getways/pm_status.php on line 13
+[27-Aug-2018 16:32:02 America/Los_Angeles] PHP Notice:  Undefined index: receiver in /home2/investlister/public_html/getways/pm_status.php on line 14
+[27-Aug-2018 16:32:02 America/Los_Angeles] PHP Notice:  Undefined index: status in /home2/investlister/public_html/getways/pm_status.php on line 15
+[27-Aug-2018 16:32:02 America/Los_Angeles] PHP Notice:  Undefined index: date in /home2/investlister/public_html/getways/pm_status.php on line 16
+[27-Aug-2018 16:32:02 America/Los_Angeles] PHP Notice:  Undefined index: id_transfer in /home2/investlister/public_html/getways/pm_status.php on line 17
+[27-Aug-2018 16:32:02 America/Los_Angeles] PHP Notice:  Undefined index: merchant_name in /home2/investlister/public_html/getways/pm_status.php on line 19
+[27-Aug-2018 16:32:02 America/Los_Angeles] PHP Notice:  Undefined index: merchant_id in /home2/investlister/public_html/getways/pm_status.php on line 20
+[27-Aug-2018 16:32:02 America/Los_Angeles] PHP Notice:  Undefined index: balance in /home2/investlister/public_html/getways/pm_status.php on line 21
+[27-Aug-2018 16:32:02 America/Los_Angeles] PHP Notice:  Undefined index: item_name in /home2/investlister/public_html/getways/pm_status.php on line 23
+[27-Aug-2018 16:32:02 America/Los_Angeles] PHP Notice:  Undefined index: custom in /home2/investlister/public_html/getways/pm_status.php on line 24
+[27-Aug-2018 16:32:02 America/Los_Angeles] PHP Notice:  Undefined index: custom2 in /home2/investlister/public_html/getways/pm_status.php on line 25
+[27-Aug-2018 16:32:02 America/Los_Angeles] PHP Notice:  Undefined index: hash in /home2/investlister/public_html/getways/pm_status.php on line 28
+[27-Aug-2018 16:37:57 America/Los_Angeles] PHP Notice:  Undefined index: pid in /home2/investlister/public_html/getways/pm_status.php on line 10
+[27-Aug-2018 16:37:57 America/Los_Angeles] PHP Notice:  Undefined index: total in /home2/investlister/public_html/getways/pm_status.php on line 11
+[27-Aug-2018 16:37:57 America/Los_Angeles] PHP Notice:  Undefined index: currency in /home2/investlister/public_html/getways/pm_status.php on line 12
+[27-Aug-2018 16:37:57 America/Los_Angeles] PHP Notice:  Undefined index: payer in /home2/investlister/public_html/getways/pm_status.php on line 13
+[27-Aug-2018 16:37:57 America/Los_Angeles] PHP Notice:  Undefined index: receiver in /home2/investlister/public_html/getways/pm_status.php on line 14
+[27-Aug-2018 16:37:57 America/Los_Angeles] PHP Notice:  Undefined index: status in /home2/investlister/public_html/getways/pm_status.php on line 15
+[27-Aug-2018 16:37:57 America/Los_Angeles] PHP Notice:  Undefined index: date in /home2/investlister/public_html/getways/pm_status.php on line 16
+[27-Aug-2018 16:37:57 America/Los_Angeles] PHP Notice:  Undefined index: id_transfer in /home2/investlister/public_html/getways/pm_status.php on line 17
+[27-Aug-2018 16:37:57 America/Los_Angeles] PHP Notice:  Undefined index: merchant_name in /home2/investlister/public_html/getways/pm_status.php on line 19
+[27-Aug-2018 16:37:57 America/Los_Angeles] PHP Notice:  Undefined index: merchant_id in /home2/investlister/public_html/getways/pm_status.php on line 20
+[27-Aug-2018 16:37:57 America/Los_Angeles] PHP Notice:  Undefined index: balance in /home2/investlister/public_html/getways/pm_status.php on line 21
+[27-Aug-2018 16:37:57 America/Los_Angeles] PHP Notice:  Undefined index: item_name in /home2/investlister/public_html/getways/pm_status.php on line 23
+[27-Aug-2018 16:37:57 America/Los_Angeles] PHP Notice:  Undefined index: custom in /home2/investlister/public_html/getways/pm_status.php on line 24
+[27-Aug-2018 16:37:57 America/Los_Angeles] PHP Notice:  Undefined index: custom2 in /home2/investlister/public_html/getways/pm_status.php on line 25
+[27-Aug-2018 16:37:57 America/Los_Angeles] PHP Notice:  Undefined index: hash in /home2/investlister/public_html/getways/pm_status.php on line 28
+[27-Aug-2018 16:39:23 America/Los_Angeles] PHP Notice:  Undefined index: pid in /home2/investlister/public_html/getways/pm_status.php on line 10
+[27-Aug-2018 16:39:23 America/Los_Angeles] PHP Notice:  Undefined index: total in /home2/investlister/public_html/getways/pm_status.php on line 11
+[27-Aug-2018 16:39:23 America/Los_Angeles] PHP Notice:  Undefined index: currency in /home2/investlister/public_html/getways/pm_status.php on line 12
+[27-Aug-2018 16:39:23 America/Los_Angeles] PHP Notice:  Undefined index: payer in /home2/investlister/public_html/getways/pm_status.php on line 13
+[27-Aug-2018 16:39:23 America/Los_Angeles] PHP Notice:  Undefined index: receiver in /home2/investlister/public_html/getways/pm_status.php on line 14
+[27-Aug-2018 16:39:23 America/Los_Angeles] PHP Notice:  Undefined index: status in /home2/investlister/public_html/getways/pm_status.php on line 15
+[27-Aug-2018 16:39:23 America/Los_Angeles] PHP Notice:  Undefined index: date in /home2/investlister/public_html/getways/pm_status.php on line 16
+[27-Aug-2018 16:39:23 America/Los_Angeles] PHP Notice:  Undefined index: id_transfer in /home2/investlister/public_html/getways/pm_status.php on line 17
+[27-Aug-2018 16:39:23 America/Los_Angeles] PHP Notice:  Undefined index: merchant_name in /home2/investlister/public_html/getways/pm_status.php on line 19
+[27-Aug-2018 16:39:23 America/Los_Angeles] PHP Notice:  Undefined index: merchant_id in /home2/investlister/public_html/getways/pm_status.php on line 20
+[27-Aug-2018 16:39:23 America/Los_Angeles] PHP Notice:  Undefined index: balance in /home2/investlister/public_html/getways/pm_status.php on line 21
+[27-Aug-2018 16:39:23 America/Los_Angeles] PHP Notice:  Undefined index: item_name in /home2/investlister/public_html/getways/pm_status.php on line 23
+[27-Aug-2018 16:39:23 America/Los_Angeles] PHP Notice:  Undefined index: custom in /home2/investlister/public_html/getways/pm_status.php on line 24
+[27-Aug-2018 16:39:23 America/Los_Angeles] PHP Notice:  Undefined index: custom2 in /home2/investlister/public_html/getways/pm_status.php on line 25
+[27-Aug-2018 16:39:23 America/Los_Angeles] PHP Notice:  Undefined index: hash in /home2/investlister/public_html/getways/pm_status.php on line 28
+[27-Aug-2018 16:46:53 America/Los_Angeles] PHP Notice:  Undefined index: SUGGESTED_MEMO in /home2/investlister/public_html/getways/pm_status.php on line 10
+[27-Aug-2018 16:46:53 America/Los_Angeles] PHP Notice:  Undefined index: total in /home2/investlister/public_html/getways/pm_status.php on line 11
+[27-Aug-2018 16:46:53 America/Los_Angeles] PHP Notice:  Undefined index: currency in /home2/investlister/public_html/getways/pm_status.php on line 12
+[27-Aug-2018 16:46:53 America/Los_Angeles] PHP Notice:  Undefined index: payer in /home2/investlister/public_html/getways/pm_status.php on line 13
+[27-Aug-2018 16:46:53 America/Los_Angeles] PHP Notice:  Undefined index: receiver in /home2/investlister/public_html/getways/pm_status.php on line 14
+[27-Aug-2018 16:46:53 America/Los_Angeles] PHP Notice:  Undefined index: status in /home2/investlister/public_html/getways/pm_status.php on line 15
+[27-Aug-2018 16:46:53 America/Los_Angeles] PHP Notice:  Undefined index: date in /home2/investlister/public_html/getways/pm_status.php on line 16
+[27-Aug-2018 16:46:53 America/Los_Angeles] PHP Notice:  Undefined index: id_transfer in /home2/investlister/public_html/getways/pm_status.php on line 17
+[27-Aug-2018 16:46:53 America/Los_Angeles] PHP Notice:  Undefined index: merchant_name in /home2/investlister/public_html/getways/pm_status.php on line 19
+[27-Aug-2018 16:46:53 America/Los_Angeles] PHP Notice:  Undefined index: merchant_id in /home2/investlister/public_html/getways/pm_status.php on line 20
+[27-Aug-2018 16:46:53 America/Los_Angeles] PHP Notice:  Undefined index: balance in /home2/investlister/public_html/getways/pm_status.php on line 21
+[27-Aug-2018 16:46:53 America/Los_Angeles] PHP Notice:  Undefined index: item_name in /home2/investlister/public_html/getways/pm_status.php on line 23
+[27-Aug-2018 16:46:53 America/Los_Angeles] PHP Notice:  Undefined index: custom in /home2/investlister/public_html/getways/pm_status.php on line 24
+[27-Aug-2018 16:46:53 America/Los_Angeles] PHP Notice:  Undefined index: custom2 in /home2/investlister/public_html/getways/pm_status.php on line 25
+[27-Aug-2018 16:46:53 America/Los_Angeles] PHP Notice:  Undefined index: hash in /home2/investlister/public_html/getways/pm_status.php on line 28
+[27-Aug-2018 16:50:56 America/Los_Angeles] PHP Notice:  Undefined index: total in /home2/investlister/public_html/getways/pm_status.php on line 11
+[27-Aug-2018 16:50:56 America/Los_Angeles] PHP Notice:  Undefined index: currency in /home2/investlister/public_html/getways/pm_status.php on line 12
+[27-Aug-2018 16:50:56 America/Los_Angeles] PHP Notice:  Undefined index: payer in /home2/investlister/public_html/getways/pm_status.php on line 13
+[27-Aug-2018 16:50:56 America/Los_Angeles] PHP Notice:  Undefined index: receiver in /home2/investlister/public_html/getways/pm_status.php on line 14
+[27-Aug-2018 16:50:56 America/Los_Angeles] PHP Notice:  Undefined index: status in /home2/investlister/public_html/getways/pm_status.php on line 15
+[27-Aug-2018 16:50:56 America/Los_Angeles] PHP Notice:  Undefined index: date in /home2/investlister/public_html/getways/pm_status.php on line 16
+[27-Aug-2018 16:50:56 America/Los_Angeles] PHP Notice:  Undefined index: id_transfer in /home2/investlister/public_html/getways/pm_status.php on line 17
+[27-Aug-2018 16:50:56 America/Los_Angeles] PHP Notice:  Undefined index: merchant_name in /home2/investlister/public_html/getways/pm_status.php on line 19
+[27-Aug-2018 16:50:56 America/Los_Angeles] PHP Notice:  Undefined index: merchant_id in /home2/investlister/public_html/getways/pm_status.php on line 20
+[27-Aug-2018 16:50:56 America/Los_Angeles] PHP Notice:  Undefined index: balance in /home2/investlister/public_html/getways/pm_status.php on line 21
+[27-Aug-2018 16:50:56 America/Los_Angeles] PHP Notice:  Undefined index: item_name in /home2/investlister/public_html/getways/pm_status.php on line 23
+[27-Aug-2018 16:50:56 America/Los_Angeles] PHP Notice:  Undefined index: custom in /home2/investlister/public_html/getways/pm_status.php on line 24
+[27-Aug-2018 16:50:56 America/Los_Angeles] PHP Notice:  Undefined index: custom2 in /home2/investlister/public_html/getways/pm_status.php on line 25
+[27-Aug-2018 16:50:56 America/Los_Angeles] PHP Notice:  Undefined index: hash in /home2/investlister/public_html/getways/pm_status.php on line 28
+[27-Aug-2018 17:16:05 America/Los_Angeles] PHP Notice:  Use of undefined constant programs - assumed 'programs' in /home2/investlister/public_html/getways/pm_status.php on line 26
+[27-Aug-2018 17:16:05 America/Los_Angeles] PHP Notice:  Use of undefined constant banners - assumed 'banners' in /home2/investlister/public_html/getways/pm_status.php on line 43
+[27-Aug-2018 18:05:49 America/Los_Angeles] PHP Notice:  Use of undefined constant programs - assumed 'programs' in /home2/investlister/public_html/getways/pm_status.php on line 33
+[27-Aug-2018 18:05:49 America/Los_Angeles] PHP Notice:  Undefined variable: item_name in /home2/investlister/public_html/getways/pm_status.php on line 36
+[27-Aug-2018 18:05:49 America/Los_Angeles] PHP Notice:  Use of undefined constant banners - assumed 'banners' in /home2/investlister/public_html/getways/pm_status.php on line 50
+[27-Aug-2018 18:13:08 America/Los_Angeles] PHP Notice:  Undefined index: SUGGESTED_MEMO in /home2/investlister/public_html/getways/pm_status.php on line 10
+[27-Aug-2018 18:29:43 America/Los_Angeles] PHP Notice:  Undefined index: SUGGESTED_MEMO in /home2/investlister/public_html/getways/pm_status.php on line 11
+[27-Aug-2018 18:29:43 America/Los_Angeles] PHP Notice:  Use of undefined constant programs - assumed 'programs' in /home2/investlister/public_html/getways/pm_status.php on line 33
+[27-Aug-2018 18:29:43 America/Los_Angeles] PHP Notice:  Use of undefined constant banners - assumed 'banners' in /home2/investlister/public_html/getways/pm_status.php on line 50
+[27-Aug-2018 19:01:49 America/Los_Angeles] PHP Notice:  Undefined index: CUST_NUM" in /home2/investlister/public_html/getways/pm_status.php on line 10
+[27-Aug-2018 19:05:53 America/Los_Angeles] PHP Notice:  Undefined index: CUST_NUM" in /home2/investlister/public_html/getways/pm_status.php on line 10
+[28-Aug-2018 02:21:31 America/Los_Angeles] PHP Notice:  Use of undefined constant programs - assumed 'programs' in /home2/investlister/public_html/getways/msp_status.php on line 45
+[28-Aug-2018 02:21:31 America/Los_Angeles] PHP Notice:  Use of undefined constant banners - assumed 'banners' in /home2/investlister/public_html/getways/msp_status.php on line 62
+[28-Aug-2018 02:21:31 America/Los_Angeles] PHP Notice:  Use of undefined constant programs - assumed 'programs' in /home2/investlister/public_html/getways/msp_status.php on line 45
+[28-Aug-2018 02:21:31 America/Los_Angeles] PHP Notice:  Use of undefined constant banners - assumed 'banners' in /home2/investlister/public_html/getways/msp_status.php on line 62
+[28-Aug-2018 02:21:31 America/Los_Angeles] PHP Notice:  Use of undefined constant programs - assumed 'programs' in /home2/investlister/public_html/getways/msp_status.php on line 45
+[28-Aug-2018 02:21:31 America/Los_Angeles] PHP Notice:  Use of undefined constant banners - assumed 'banners' in /home2/investlister/public_html/getways/msp_status.php on line 62
+[28-Aug-2018 02:21:31 America/Los_Angeles] PHP Notice:  Use of undefined constant programs - assumed 'programs' in /home2/investlister/public_html/getways/msp_status.php on line 45
+[28-Aug-2018 02:21:32 America/Los_Angeles] PHP Notice:  Use of undefined constant banners - assumed 'banners' in /home2/investlister/public_html/getways/msp_status.php on line 62
+[28-Aug-2018 02:21:32 America/Los_Angeles] PHP Notice:  Use of undefined constant programs - assumed 'programs' in /home2/investlister/public_html/getways/msp_status.php on line 45
+[28-Aug-2018 02:21:32 America/Los_Angeles] PHP Notice:  Use of undefined constant banners - assumed 'banners' in /home2/investlister/public_html/getways/msp_status.php on line 62
+[28-Aug-2018 02:21:32 America/Los_Angeles] PHP Notice:  Use of undefined constant programs - assumed 'programs' in /home2/investlister/public_html/getways/msp_status.php on line 45
+[28-Aug-2018 02:21:32 America/Los_Angeles] PHP Notice:  Use of undefined constant banners - assumed 'banners' in /home2/investlister/public_html/getways/msp_status.php on line 62
+[28-Aug-2018 02:21:32 America/Los_Angeles] PHP Notice:  Use of undefined constant programs - assumed 'programs' in /home2/investlister/public_html/getways/msp_status.php on line 45
+[28-Aug-2018 02:21:32 America/Los_Angeles] PHP Notice:  Use of undefined constant banners - assumed 'banners' in /home2/investlister/public_html/getways/msp_status.php on line 62
+[28-Aug-2018 02:21:32 America/Los_Angeles] PHP Notice:  Use of undefined constant programs - assumed 'programs' in /home2/investlister/public_html/getways/msp_status.php on line 45
+[28-Aug-2018 02:21:32 America/Los_Angeles] PHP Notice:  Use of undefined constant banners - assumed 'banners' in /home2/investlister/public_html/getways/msp_status.php on line 62
+[28-Aug-2018 02:21:32 America/Los_Angeles] PHP Notice:  Use of undefined constant programs - assumed 'programs' in /home2/investlister/public_html/getways/msp_status.php on line 45
+[28-Aug-2018 02:21:32 America/Los_Angeles] PHP Notice:  Use of undefined constant banners - assumed 'banners' in /home2/investlister/public_html/getways/msp_status.php on line 62
+[28-Aug-2018 02:21:32 America/Los_Angeles] PHP Notice:  Use of undefined constant programs - assumed 'programs' in /home2/investlister/public_html/getways/msp_status.php on line 45
+[28-Aug-2018 02:21:33 America/Los_Angeles] PHP Notice:  Use of undefined constant banners - assumed 'banners' in /home2/investlister/public_html/getways/msp_status.php on line 62
+[28-Aug-2018 02:21:33 America/Los_Angeles] PHP Notice:  Use of undefined constant programs - assumed 'programs' in /home2/investlister/public_html/getways/msp_status.php on line 45
+[28-Aug-2018 02:21:33 America/Los_Angeles] PHP Notice:  Use of undefined constant banners - assumed 'banners' in /home2/investlister/public_html/getways/msp_status.php on line 62
+[28-Aug-2018 02:21:33 America/Los_Angeles] PHP Notice:  Use of undefined constant programs - assumed 'programs' in /home2/investlister/public_html/getways/msp_status.php on line 45
+[28-Aug-2018 02:21:33 America/Los_Angeles] PHP Notice:  Use of undefined constant banners - assumed 'banners' in /home2/investlister/public_html/getways/msp_status.php on line 62
+[28-Aug-2018 02:21:33 America/Los_Angeles] PHP Notice:  Use of undefined constant programs - assumed 'programs' in /home2/investlister/public_html/getways/msp_status.php on line 45
+[28-Aug-2018 02:21:33 America/Los_Angeles] PHP Notice:  Use of undefined constant banners - assumed 'banners' in /home2/investlister/public_html/getways/msp_status.php on line 62
+[28-Aug-2018 02:21:33 America/Los_Angeles] PHP Notice:  Use of undefined constant programs - assumed 'programs' in /home2/investlister/public_html/getways/msp_status.php on line 45
+[28-Aug-2018 02:21:33 America/Los_Angeles] PHP Notice:  Use of undefined constant banners - assumed 'banners' in /home2/investlister/public_html/getways/msp_status.php on line 62
+[28-Aug-2018 02:58:47 America/Los_Angeles] PHP Notice:  Use of undefined constant programs - assumed 'programs' in /home2/investlister/public_html/getways/msp_status.php on line 45
+[28-Aug-2018 02:58:47 America/Los_Angeles] PHP Notice:  Use of undefined constant banners - assumed 'banners' in /home2/investlister/public_html/getways/msp_status.php on line 62
+[28-Aug-2018 02:58:47 America/Los_Angeles] PHP Notice:  Use of undefined constant paid - assumed 'paid' in /home2/investlister/public_html/getways/msp_status.php on line 65
+[28-Aug-2018 02:58:47 America/Los_Angeles] PHP Notice:  Use of undefined constant programs - assumed 'programs' in /home2/investlister/public_html/getways/msp_status.php on line 45
+[28-Aug-2018 02:58:47 America/Los_Angeles] PHP Notice:  Use of undefined constant banners - assumed 'banners' in /home2/investlister/public_html/getways/msp_status.php on line 62
+[28-Aug-2018 02:58:47 America/Los_Angeles] PHP Notice:  Use of undefined constant paid - assumed 'paid' in /home2/investlister/public_html/getways/msp_status.php on line 65
+[28-Aug-2018 03:20:01 America/Los_Angeles] PHP Notice:  Undefined index: PAYMENT_ID" in /home2/investlister/public_html/getways/pm_status.php on line 11
+[28-Aug-2018 03:35:12 America/Los_Angeles] PHP Notice:  Use of undefined constant programs - assumed 'programs' in /home2/investlister/public_html/getways/pm_status.php on line 37
+[28-Aug-2018 03:35:12 America/Los_Angeles] PHP Notice:  Use of undefined constant banners - assumed 'banners' in /home2/investlister/public_html/getways/pm_status.php on line 54
+[28-Aug-2018 03:35:12 America/Los_Angeles] PHP Notice:  Use of undefined constant paid - assumed 'paid' in /home2/investlister/public_html/getways/pm_status.php on line 57
+[28-Aug-2018 03:35:12 America/Los_Angeles] PHP Notice:  Use of undefined constant programs - assumed 'programs' in /home2/investlister/public_html/getways/pm_status.php on line 37
+[28-Aug-2018 03:35:12 America/Los_Angeles] PHP Notice:  Use of undefined constant banners - assumed 'banners' in /home2/investlister/public_html/getways/pm_status.php on line 54
+[28-Aug-2018 03:35:12 America/Los_Angeles] PHP Notice:  Use of undefined constant paid - assumed 'paid' in /home2/investlister/public_html/getways/pm_status.php on line 57
+[28-Aug-2018 03:35:12 America/Los_Angeles] PHP Notice:  Use of undefined constant programs - assumed 'programs' in /home2/investlister/public_html/getways/pm_status.php on line 37
+[28-Aug-2018 03:35:12 America/Los_Angeles] PHP Notice:  Use of undefined constant banners - assumed 'banners' in /home2/investlister/public_html/getways/pm_status.php on line 54
+[28-Aug-2018 03:35:12 America/Los_Angeles] PHP Notice:  Use of undefined constant paid - assumed 'paid' in /home2/investlister/public_html/getways/pm_status.php on line 57
+[28-Aug-2018 03:38:57 America/Los_Angeles] PHP Notice:  Use of undefined constant programs - assumed 'programs' in /home2/investlister/public_html/getways/pm_status.php on line 37
+[28-Aug-2018 03:38:57 America/Los_Angeles] PHP Notice:  Use of undefined constant banners - assumed 'banners' in /home2/investlister/public_html/getways/pm_status.php on line 54
+[28-Aug-2018 04:05:45 America/Los_Angeles] PHP Notice:  Use of undefined constant programs - assumed 'programs' in /home2/investlister/public_html/getways/msp_status.php on line 45
+[28-Aug-2018 04:05:45 America/Los_Angeles] PHP Notice:  Use of undefined constant banners - assumed 'banners' in /home2/investlister/public_html/getways/msp_status.php on line 62
+[28-Aug-2018 04:05:45 America/Los_Angeles] PHP Notice:  Use of undefined constant programs - assumed 'programs' in /home2/investlister/public_html/getways/msp_status.php on line 45
+[28-Aug-2018 04:05:45 America/Los_Angeles] PHP Notice:  Use of undefined constant banners - assumed 'banners' in /home2/investlister/public_html/getways/msp_status.php on line 62
+[28-Aug-2018 04:10:39 America/Los_Angeles] PHP Notice:  Use of undefined constant programs - assumed 'programs' in /home2/investlister/public_html/getways/pm_status.php on line 37
+[28-Aug-2018 04:10:40 America/Los_Angeles] PHP Notice:  Use of undefined constant banners - assumed 'banners' in /home2/investlister/public_html/getways/pm_status.php on line 54
+[08-Oct-2018 22:25:46 America/Los_Angeles] PHP Notice:  Use of undefined constant programs - assumed 'programs' in /home2/btchashcash/public_html/getways/msp_status.php on line 45
+[08-Oct-2018 22:25:46 America/Los_Angeles] PHP Notice:  Use of undefined constant banners - assumed 'banners' in /home2/btchashcash/public_html/getways/msp_status.php on line 62
+[08-Oct-2018 22:25:46 America/Los_Angeles] PHP Notice:  Use of undefined constant paid - assumed 'paid' in /home2/btchashcash/public_html/getways/msp_status.php on line 65
+[08-Oct-2018 22:25:46 America/Los_Angeles] PHP Notice:  Use of undefined constant programs - assumed 'programs' in /home2/btchashcash/public_html/getways/msp_status.php on line 45
+[08-Oct-2018 22:25:46 America/Los_Angeles] PHP Notice:  Use of undefined constant banners - assumed 'banners' in /home2/btchashcash/public_html/getways/msp_status.php on line 62
+[08-Oct-2018 22:25:46 America/Los_Angeles] PHP Notice:  Use of undefined constant paid - assumed 'paid' in /home2/btchashcash/public_html/getways/msp_status.php on line 65
+[08-Oct-2018 22:45:24 America/Los_Angeles] PHP Notice:  Use of undefined constant programs - assumed 'programs' in /home2/btchashcash/public_html/getways/msp_status.php on line 45
+[08-Oct-2018 22:45:24 America/Los_Angeles] PHP Notice:  Use of undefined constant banners - assumed 'banners' in /home2/btchashcash/public_html/getways/msp_status.php on line 62
+[08-Oct-2018 22:45:24 America/Los_Angeles] PHP Notice:  Use of undefined constant paid - assumed 'paid' in /home2/btchashcash/public_html/getways/msp_status.php on line 65
+[08-Oct-2018 23:00:17 America/Los_Angeles] PHP Notice:  Use of undefined constant programs - assumed 'programs' in /home2/btchashcash/public_html/getways/msp_status.php on line 45
+[08-Oct-2018 23:00:17 America/Los_Angeles] PHP Notice:  Use of undefined constant banners - assumed 'banners' in /home2/btchashcash/public_html/getways/msp_status.php on line 62
+[08-Oct-2018 23:00:17 America/Los_Angeles] PHP Notice:  Use of undefined constant paid - assumed 'paid' in /home2/btchashcash/public_html/getways/msp_status.php on line 65
